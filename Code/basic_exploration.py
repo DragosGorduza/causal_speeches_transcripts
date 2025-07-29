@@ -212,7 +212,43 @@ if {'CentralBank', 'date', 'charCount'}.issubset(all_data.columns):
         'Federal Reserve Bank of St Louis',
         'Board of Governors of the Federal Reserve'
     ]
-    all_data['RenamedCentralBank'] = all_data['CentralBank'].replace(fed_banks, 'FED')
+    ecb_banks =[
+        'European Central Bank',
+        'Austrian National Bank',
+ 'Bank of Estonia',
+ 'Bank of Finland',
+ 'Bank of France',
+ 'Bank of Greece',
+ 'Bank of Italy',
+ 'Bank of Latvia',
+ 'Bank of Lithuania',
+ 'Bank of Portugal',
+ 'Bank of Slovenia',
+ 'Bank of Spain',
+ 'Central Bank of Cyprus',
+ 'Central Bank of Ireland',
+ 'Central Bank of Luxembourg',
+ 'Central Bank of Malta',
+ 'Croatian National Bank',
+ 'De Nederlandsche Bank',
+ 'Deutsche Bundesbank',
+ 'National Bank of Belgium',
+ 'National Bank of Slovakia'
+
+
+    ]
+
+    other_eu = [
+        #'Central Bank of Iceland',
+    'National Bank of Romania',
+    'National Bank of Poland',
+    'National Bank of Denmark',
+    'Czech National Bank',
+    'Bulgarian National Bank',
+    'Central Bank of Hungary',
+    'Sveriges Riksbank',
+    ]
+    all_data['RenamedCentralBank'] = all_data['CentralBank'].replace(fed_banks, 'FED').replace(ecb_banks, 'ECB').replace(other_eu, 'Other EU CB')
 
     # Create output directories
     #os.makedirs('../Output/csvs/Aggregated_csvs', exist_ok=True)
@@ -306,6 +342,50 @@ if 'date' in all_data.columns and 'RenamedCentralBank' in all_data.columns:
     plt.tight_layout()  # Adjust layout to fit legend
     
     plt.savefig('../Output/plots/Aggregated_plots/speeches_by_bank_year_stacked_sorted_with_FED.png', bbox_inches='tight')
+    plt.show()
+else:
+    print("Required columns ('date', 'RenamedCentralBank', and 'nWords') not found in the dataset.")
+
+
+
+
+
+if 'date' in all_data.columns and 'Language' in all_data.columns:
+    # Convert 'date' to datetime and extract the year
+    all_data['date'] = pd.to_datetime(all_data['date'], errors='coerce')  # Handle invalid dates
+    all_data['year'] = all_data['date'].dt.year
+
+    # Determine the order of CentralBanks by the maximum nWords
+    central_bank_order = all_data.groupby('Language')['charCount'].mean().sort_values(ascending=False).index
+
+    # Group by CentralBank and year, then count speeches
+    speeches_by_bank_year = all_data.groupby(['year', 'Language']).size().unstack(fill_value=0)
+
+    # Reorder columns in the same order as central_bank_order
+    speeches_by_bank_year = speeches_by_bank_year[central_bank_order]
+
+    # Define a colormap with the same order as the central banks
+    colormap = ListedColormap(plt.cm.tab20.colors[:len(central_bank_order)])
+
+    # Plot stacked bar chart
+    speeches_by_bank_year.plot(
+        kind='bar', 
+        stacked=True, 
+        figsize=(12, 8), 
+        color=colormap.colors
+    )
+    plt.xlabel('Year')
+    plt.ylabel('Number of Speeches')
+    plt.title('Number of Speeches by Language and Year (Stacked)')
+    plt.legend(
+        title='Central Bank', 
+        labels=central_bank_order, 
+        bbox_to_anchor=(1.05, 1), 
+        loc='upper left'
+    )
+    plt.tight_layout()  # Adjust layout to fit legend
+    
+    plt.savefig('../Output/plots/Aggregated_plots/speeches_by_language_year_stacked_sorted_with_FED.png', bbox_inches='tight')
     plt.show()
 else:
     print("Required columns ('date', 'RenamedCentralBank', and 'nWords') not found in the dataset.")
