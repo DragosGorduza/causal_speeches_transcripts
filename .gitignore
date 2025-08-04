@@ -1,3 +1,5 @@
 Data/Speeches/speechContent.txt
 Data/Speeches/speechMetadata.csv
 Code/read_speeches.ipynb
+Code/.ipynb_checkpoints/_secret_key-checkpoint.txt
+Code/_secret_key.txt
