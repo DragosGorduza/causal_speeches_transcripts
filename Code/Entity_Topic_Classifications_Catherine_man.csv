@@ -1,0 +1,626 @@
+entity,topic,classification,document_reference,custom_id,speech_id,request_idx,speech_narrative_id,entity_type,entity_speech_narrative_id
+monetary policy,interest rates,higher,,speech_16649_narr_16649_0_cause_0,16649,0,16649_0,cause,monetary policy|16649_0
+inflationary expectations dynamic,inflation,higher,,speech_16649_narr_16649_0_effect_0,16649,0,16649_0,effect,inflationary expectations dynamic|16649_0
+monetary policy,interest rates,higher,,speech_16649_narr_16649_1_cause_1,16649,1,16649_1,cause,monetary policy|16649_1
+purchasing power,inflation,lower,,speech_16649_narr_16649_1_effect_1,16649,1,16649_1,effect,purchasing power|16649_1
+current inflation,inflation,normal,,speech_16649_narr_16649_2_cause_2,16649,2,16649_2,cause,current inflation|16649_2
+future price inflation,inflation,higher,,speech_16649_narr_16649_2_effect_2,16649,2,16649_2,effect,future price inflation|16649_2
+price realisations,inflation,normal,,speech_16649_narr_16649_3_cause_3,16649,3,16649_3,cause,price realisations|16649_3
+evolution of real income and demand,output,normal,,speech_16649_narr_16649_3_effect_3,16649,3,16649_3,effect,evolution of real income and demand|16649_3
+monetary policy,interest rates,normal,,speech_16649_narr_16649_4_cause_4,16649,4,16649_4,cause,monetary policy|16649_4
+inflation,inflation,normal,,speech_16649_narr_16649_4_effect_4,16649,4,16649_4,effect,inflation|16649_4
+output,output,normal,,speech_16649_narr_16649_4_effect_4,16649,4,16649_4,effect,output|16649_4
+shocks,inflation,higher,,speech_16649_narr_16649_5_cause_5,16649,5,16649_5,cause,shocks|16649_5
+inflation,inflation,higher,,speech_16649_narr_16649_5_effect_5,16649,5,16649_5,effect,inflation|16649_5
+monetary policy path,interest rates,normal,,speech_16649_narr_16649_6_cause_6,16649,6,16649_6,cause,monetary policy path|16649_6
+economic activity,output,lower,,speech_16649_narr_16649_6_effect_6,16649,6,16649_6,effect,economic activity|16649_6
+monetary policy,interest rates,normal,,speech_16649_narr_16649_7_cause_7,16649,7,16649_7,cause,monetary policy|16649_7
+medium-term inflation and purchasing power,inflation,normal,,speech_16649_narr_16649_7_effect_7,16649,7,16649_7,effect,medium-term inflation and purchasing power|16649_7
+monetary policy,interest rates,normal,,speech_16649_narr_16649_8_cause_8,16649,8,16649_8,cause,monetary policy|16649_8
+change financial conditions,financial markets,normal,,speech_16649_narr_16649_8_effect_8,16649,8,16649_8,effect,change financial conditions|16649_8
+financial conditions,financial markets,normal,,speech_16649_narr_16649_9_cause_9,16649,9,16649_9,cause,financial conditions|16649_9
+aggregate demand,output,normal,,speech_16649_narr_16649_9_effect_9,16649,9,16649_9,effect,aggregate demand|16649_9
+previous monetary accommodation,interest rates,normal,,speech_16649_narr_16649_10_cause_10,16649,10,16649_10,cause,previous monetary accommodation|16649_10
+affecting transmission now,financial markets,normal,,speech_16649_narr_16649_10_effect_10,16649,10,16649_10,effect,affecting transmission now|16649_10
+bolder monetary policy action,interest rates,higher,,speech_16649_narr_16649_11_cause_11,16649,11,16649_11,cause,bolder monetary policy action|16649_11
+financial conditions,financial markets,higher,,speech_16649_narr_16649_11_effect_11,16649,11,16649_11,effect,financial conditions|16649_11
+tightness in labour and product markets,labour market,higher,,speech_16649_narr_16649_12_cause_12,16649,12,16649_12,cause,tightness in labour and product markets|16649_12
+downstream wage and price pressures,inflation,higher,,speech_16649_narr_16649_12_effect_12,16649,12,16649_12,effect,downstream wage and price pressures|16649_12
+monetary policy,interest rates,normal,,speech_16649_narr_16649_13_cause_13,16649,13,16649_13,cause,monetary policy|16649_13
+inputs to the long-run equilibrium,productivity,normal,,speech_16649_narr_16649_13_effect_13,16649,13,16649_13,effect,inputs to the long-run equilibrium|16649_13
+expectations by workers and firms,inflation,higher,,speech_16649_narr_16649_14_cause_14,16649,14,16649_14,cause,expectations by workers and firms|16649_14
+generate a domestically-driven wage-price dynamic,inflation,higher,,speech_16649_narr_16649_14_effect_14,16649,14,16649_14,effect,generate a domestically-driven wage-price dynamic|16649_14
+2021 wage settlements and price hikes,inflation,higher,,speech_16649_narr_16649_15_cause_15,16649,15,16649_15,cause,2021 wage settlements and price hikes|16649_15
+inflation remain well above target,inflation,higher,,speech_16649_narr_16649_15_effect_15,16649,15,16649_15,effect,inflation remain well above target|16649_15
+increase in inflation expectations,inflation,higher,,speech_16649_narr_16649_16_cause_16,16649,16,16649_16,cause,increase in inflation expectations|16649_16
+significant role in wage settlements,labour market,higher,,speech_16649_narr_16649_16_effect_16,16649,16,16649_16,effect,significant role in wage settlements|16649_16
+firms pricing expectations,inflation,higher,,speech_16649_narr_16649_17_cause_17,16649,17,16649_17,cause,firms pricing expectations|16649_17
+recover margins eroded from input price increases and higher energy prices,inflation,higher,,speech_16649_narr_16649_17_effect_17,16649,17,16649_17,effect,recover margins eroded from input price increases and higher energy prices|16649_17
+erosion of international competition,trade,higher,,speech_16649_narr_16649_18_cause_18,16649,18,16649_18,cause,erosion of international competition|16649_18
+strengthen ability to pass-on import prices,inflation,higher,,speech_16649_narr_16649_18_effect_18,16649,18,16649_18,effect,strengthen ability to pass-on import prices|16649_18
+successive shocks to the price level,inflation,higher,,speech_16649_narr_16649_19_cause_19,16649,19,16649_19,cause,successive shocks to the price level|16649_19
+transitory effect on inflation,inflation,normal,,speech_16649_narr_16649_19_effect_19,16649,19,16649_19,effect,transitory effect on inflation|16649_19
+repeated shocks on the same side,inflation,higher,,speech_16649_narr_16649_20_cause_20,16649,20,16649_20,cause,repeated shocks on the same side|16649_20
+increase in the prices of goods and services in the UK,inflation,higher,,speech_16649_narr_16649_20_effect_20,16649,20,16649_20,effect,increase in the prices of goods and services in the UK|16649_20
+shocks,inflation,higher,,speech_16649_narr_16649_21_cause_21,16649,21,16649_21,cause,shocks|16649_21
+price level ratchet up,inflation,higher,,speech_16649_narr_16649_21_effect_21,16649,21,16649_21,effect,price level ratchet up|16649_21
+shocks,inflation,higher,,speech_16649_narr_16649_22_cause_22,16649,22,16649_22,cause,shocks|16649_22
+increase in inflation to historic highs,inflation,higher,,speech_16649_narr_16649_22_effect_22,16649,22,16649_22,effect,increase in inflation to historic highs|16649_22
+household inflation expectations,inflation,higher,,speech_16649_narr_16649_23_cause_23,16649,23,16649_23,cause,household inflation expectations|16649_23
+goods inflation embedded into overall cost inflation,inflation,higher,,speech_16649_narr_16649_23_effect_23,16649,23,16649_23,effect,goods inflation embedded into overall cost inflation|16649_23
+Monetary policy that looks through price changes,inflation,higher,,speech_16649_narr_16649_24_cause_24,16649,24,16649_24,cause,Monetary policy that looks through price changes|16649_24
+sustaining aggregate inflation,inflation,higher,,speech_16649_narr_16649_24_effect_24,16649,24,16649_24,effect,sustaining aggregate inflation|16649_24
+inflation ratchet,inflation,higher,,speech_16649_narr_16649_25_cause_25,16649,25,16649_25,cause,inflation ratchet|16649_25
+higher overall inflation that persists,inflation,higher,,speech_16649_narr_16649_25_effect_25,16649,25,16649_25,effect,higher overall inflation that persists|16649_25
+high inflation,inflation,higher,,speech_16649_narr_16649_26_cause_26,16649,26,16649_26,cause,high inflation|16649_26
+seeped into stable components,inflation,higher,,speech_16649_narr_16649_26_effect_26,16649,26,16649_26,effect,seeped into stable components|16649_26
+Ofgem price cap,inflation,higher,,speech_16649_narr_16649_27_cause_27,16649,27,16649_27,cause,Ofgem price cap|16649_27
+prolongs the effect of the current increase in wholesale energy prices,inflation,higher,,speech_16649_narr_16649_27_effect_27,16649,27,16649_27,effect,prolongs the effect of the current increase in wholesale energy prices|16649_27
+appreciation of Sterling,exchange rate,higher,,speech_16649_narr_16649_28_cause_28,16649,28,16649_28,cause,appreciation of Sterling|16649_28
+higher yield curve,interest rates,higher,,speech_16649_narr_16649_28_cause_28,16649,28,16649_28,cause,higher yield curve|16649_28
+tightened financial conditions,financial markets,higher,,speech_16649_narr_16649_28_effect_28,16649,28,16649_28,effect,tightened financial conditions|16649_28
+continued accommodative financial conditions,financial markets,normal,,speech_16649_narr_16649_29_cause_29,16649,29,16649_29,cause,continued accommodative financial conditions|16649_29
+tempered effect of policy tightening on aggregate demand,output,lower,,speech_16649_narr_16649_29_effect_29,16649,29,16649_29,effect,tempered effect of policy tightening on aggregate demand|16649_29
+front-loaded policy path,interest rates,higher,,speech_16649_narr_16649_30_cause_30,16649,30,16649_30,cause,front-loaded policy path|16649_30
+smaller deviations from the inflation target,inflation,lower,,speech_16649_narr_16649_30_effect_30,16649,30,16649_30,effect,smaller deviations from the inflation target|16649_30
+front-loaded tightening path,interest rates,higher,,speech_16649_narr_16649_31_cause_31,16649,31,16649_31,cause,front-loaded tightening path|16649_31
+strong signal of commitment to the inflation target,inflation,higher,,speech_16649_narr_16649_31_effect_31,16649,31,16649_31,effect,strong signal of commitment to the inflation target|16649_31
+doubling of consumer-facing energy prices,inflation,higher,,speech_16649_narr_16649_32_cause_32,16649,32,16649_32,cause,doubling of consumer-facing energy prices|16649_32
+reduction in real aggregate non-energy consumption,output,lower,,speech_16649_narr_16649_32_effect_32,16649,32,16649_32,effect,reduction in real aggregate non-energy consumption|16649_32
+2% drop in real post-tax labour income,labour market,lower,,speech_16649_narr_16649_33_cause_33,16649,33,16649_33,cause,2% drop in real post-tax labour income|16649_33
+reduction in demand,output,lower,,speech_16649_narr_16649_33_effect_33,16649,33,16649_33,effect,reduction in demand|16649_33
+low price elasticity,other,normal,,speech_16649_narr_16649_34_cause_34,16649,34,16649_34,cause,low price elasticity|16649_34
+reduction in consumption of non-energy goods and services,output,lower,,speech_16649_narr_16649_34_effect_34,16649,34,16649_34,effect,reduction in consumption of non-energy goods and services|16649_34
+high marginal propensity to consume,other,higher,,speech_16649_narr_16649_35_cause_35,16649,35,16649_35,cause,high marginal propensity to consume|16649_35
+reduction in consumption of non-energy goods and services,output,lower,,speech_16649_narr_16649_35_effect_35,16649,35,16649_35,effect,reduction in consumption of non-energy goods and services|16649_35
+energy price shock,geopolitical shocks,higher,,speech_16649_narr_16649_36_cause_36,16649,36,16649_36,cause,energy price shock|16649_36
+change in price realisations,inflation,normal,,speech_16649_narr_16649_36_effect_36,16649,36,16649_36,effect,change in price realisations|16649_36
+energy price shock,geopolitical shocks,higher,,speech_16649_narr_16649_37_cause_37,16649,37,16649_37,cause,energy price shock|16649_37
+moderation of aggregate CPI inflation,inflation,lower,,speech_16649_narr_16649_37_effect_37,16649,37,16649_37,effect,moderation of aggregate CPI inflation|16649_37
+energy price shock,geopolitical shocks,higher,,speech_16649_narr_16649_38_cause_38,16649,38,16649_38,cause,energy price shock|16649_38
+impact on aggregate demand,output,lower,,speech_16649_narr_16649_38_effect_38,16649,38,16649_38,effect,impact on aggregate demand|16649_38
+monetary policy,interest rates,higher,,speech_16649_narr_16649_39_cause_39,16649,39,16649_39,cause,monetary policy|16649_39
+anchoring of inflation expectations,inflation,normal,,speech_16649_narr_16649_39_effect_39,16649,39,16649_39,effect,anchoring of inflation expectations|16649_39
+uncertainty about the degree of intrinsic inflation persistence,inflation,higher,,speech_16649_narr_16649_40_cause_40,16649,40,16649_40,cause,uncertainty about the degree of intrinsic inflation persistence|16649_40
+inflation,inflation,higher,,speech_16649_narr_16649_40_effect_40,16649,40,16649_40,effect,inflation|16649_40
+inflation not eliminated today,inflation,higher,,speech_16649_narr_16649_41_cause_41,16649,41,16649_41,cause,inflation not eliminated today|16649_41
+future inflation,inflation,higher,,speech_16649_narr_16649_41_effect_41,16649,41,16649_41,effect,future inflation|16649_41
+long periods of loose policy,interest rates,lower,,speech_16649_narr_16649_42_cause_42,16649,42,16649_42,cause,long periods of loose policy|16649_42
+high debt levels,credit,higher,,speech_16649_narr_16649_42_effect_42,16649,42,16649_42,effect,high debt levels|16649_42
+high debt levels,credit,higher,,speech_16649_narr_16649_43_cause_43,16649,43,16649_43,cause,high debt levels|16649_43
+depress the long-run neutral rate,interest rates,lower,,speech_16649_narr_16649_43_effect_43,16649,43,16649_43,effect,depress the long-run neutral rate|16649_43
+changes in interest rates in the US,interest rates,normal,,speech_16650_narr_16650_0_cause_44,16650,44,16650_0,cause,changes in interest rates in the US|16650_0
+UK economy,output,normal,,speech_16650_narr_16650_0_effect_44,16650,44,16650_0,effect,UK economy|16650_0
+global shocks,geopolitical shocks,higher,,speech_16650_narr_16650_1_cause_45,16650,45,16650_1,cause,global shocks|16650_1
+prices rise at historic rates,inflation,higher,,speech_16650_narr_16650_1_effect_45,16650,45,16650_1,effect,prices rise at historic rates|16650_1
+global shocks,geopolitical shocks,higher,,speech_16650_narr_16650_2_cause_46,16650,46,16650_2,cause,global shocks|16650_2
+domestic inflation,inflation,higher,,speech_16650_narr_16650_2_effect_46,16650,46,16650_2,effect,domestic inflation|16650_2
+US monetary policy tightening,interest rates,higher,,speech_16650_narr_16650_3_cause_47,16650,47,16650_3,cause,US monetary policy tightening|16650_3
+slowdown in activity,output,lower,,speech_16650_narr_16650_3_effect_47,16650,47,16650_3,effect,slowdown in activity|16650_3
+disinflation,inflation,lower,,speech_16650_narr_16650_3_effect_47,16650,47,16650_3,effect,disinflation|16650_3
+US monetary policy tightening,interest rates,higher,,speech_16650_narr_16650_4_cause_48,16650,48,16650_4,cause,US monetary policy tightening|16650_4
+appreciation of the Dollar,exchange rate,higher,,speech_16650_narr_16650_4_effect_48,16650,48,16650_4,effect,appreciation of the Dollar|16650_4
+US monetary policy tightening,interest rates,higher,,speech_16650_narr_16650_5_cause_49,16650,49,16650_5,cause,US monetary policy tightening|16650_5
+capital outflows,financial markets,higher,,speech_16650_narr_16650_5_effect_49,16650,49,16650_5,effect,capital outflows|16650_5
+depreciating foreign currency,exchange rate,lower,,speech_16650_narr_16650_5_effect_49,16650,49,16650_5,effect,depreciating foreign currency|16650_5
+imported goods becoming more expensive in terms of foreign currency,exchange rate,higher,,speech_16650_narr_16650_6_cause_50,16650,50,16650_6,cause,imported goods becoming more expensive in terms of foreign currency|16650_6
+inflationary effect in the non-US economy,inflation,higher,,speech_16650_narr_16650_6_effect_50,16650,50,16650_6,effect,inflationary effect in the non-US economy|16650_6
+depreciation making exports more attractive,exchange rate,higher,,speech_16650_narr_16650_7_cause_51,16650,51,16650_7,cause,depreciation making exports more attractive|16650_7
+boost to exports,trade,higher,,speech_16650_narr_16650_7_effect_51,16650,51,16650_7,effect,boost to exports|16650_7
+US tightening,interest rates,higher,,speech_16650_narr_16650_8_cause_52,16650,52,16650_8,cause,US tightening|16650_8
+inflationary pressures in emerging market economies,inflation,higher,,speech_16650_narr_16650_8_effect_52,16650,52,16650_8,effect,inflationary pressures in emerging market economies|16650_8
+US monetary tightening,interest rates,higher,,speech_16650_narr_16650_9_cause_53,16650,53,16650_9,cause,US monetary tightening|16650_9
+decrease in real economic activity,output,lower,,speech_16650_narr_16650_9_effect_53,16650,53,16650_9,effect,decrease in real economic activity|16650_9
+US monetary tightening,interest rates,higher,,speech_16650_narr_16650_10_cause_54,16650,54,16650_10,cause,US monetary tightening|16650_10
+decrease in price level,inflation,lower,,speech_16650_narr_16650_10_effect_54,16650,54,16650_10,effect,decrease in price level|16650_10
+US tightening,interest rates,higher,,speech_16650_narr_16650_11_cause_55,16650,55,16650_11,cause,US tightening|16650_11
+inflationary effect in the UK,inflation,higher,,speech_16650_narr_16650_11_effect_55,16650,55,16650_11,effect,inflationary effect in the UK|16650_11
+US tightening,interest rates,higher,,speech_16650_narr_16650_12_cause_56,16650,56,16650_12,cause,US tightening|16650_12
+Sterling depreciation,exchange rate,higher,,speech_16650_narr_16650_12_effect_56,16650,56,16650_12,effect,Sterling depreciation|16650_12
+US monetary policy shock,interest rates,higher,,speech_16650_narr_16650_13_cause_57,16650,57,16650_13,cause,US monetary policy shock|16650_13
+increase in UK short-term rates,interest rates,higher,,speech_16650_narr_16650_13_effect_57,16650,57,16650_13,effect,increase in UK short-term rates|16650_13
+US monetary policy shock,interest rates,higher,,speech_16650_narr_16650_14_cause_58,16650,58,16650_14,cause,US monetary policy shock|16650_14
+fall in UK output,output,lower,,speech_16650_narr_16650_14_effect_58,16650,58,16650_14,effect,fall in UK output|16650_14
+US monetary policy shock,interest rates,higher,,speech_16650_narr_16650_15_cause_59,16650,59,16650_15,cause,US monetary policy shock|16650_15
+increase in UK prices,inflation,higher,,speech_16650_narr_16650_15_effect_59,16650,59,16650_15,effect,increase in UK prices|16650_15
+higher energy and food prices,inflation,higher,,speech_16650_narr_16650_16_cause_60,16650,60,16650_16,cause,higher energy and food prices|16650_16
+real income decrease,inflation,lower,,speech_16650_narr_16650_16_effect_60,16650,60,16650_16,effect,real income decrease|16650_16
+two fiscal packages,government spending,higher,,speech_16650_narr_16650_17_cause_61,16650,61,16650_17,cause,two fiscal packages|16650_17
+consumption spending support,government spending,higher,,speech_16650_narr_16650_17_effect_61,16650,61,16650_17,effect,consumption spending support|16650_17
+strong employment,labour market,higher,,speech_16650_narr_16650_18_cause_62,16650,62,16650_18,cause,strong employment|16650_18
+consumption spending support,government spending,higher,,speech_16650_narr_16650_18_effect_62,16650,62,16650_18,effect,consumption spending support|16650_18
+wide-spread bonuses,labour market,higher,,speech_16650_narr_16650_19_cause_63,16650,63,16650_19,cause,wide-spread bonuses|16650_19
+consumption spending support,government spending,higher,,speech_16650_narr_16650_19_effect_63,16650,63,16650_19,effect,consumption spending support|16650_19
+robust wage growth,labour market,higher,,speech_16650_narr_16650_20_cause_64,16650,64,16650_20,cause,robust wage growth|16650_20
+consumption spending support,government spending,higher,,speech_16650_narr_16650_20_effect_64,16650,64,16650_20,effect,consumption spending support|16650_20
+strong housing values,housing market,higher,,speech_16650_narr_16650_21_cause_65,16650,65,16650_21,cause,strong housing values|16650_21
+consumption spending support,government spending,higher,,speech_16650_narr_16650_21_effect_65,16650,65,16650_21,effect,consumption spending support|16650_21
+accumulated savings,other,higher,,speech_16650_narr_16650_22_cause_66,16650,66,16650_22,cause,accumulated savings|16650_22
+consumption spending support,government spending,higher,,speech_16650_narr_16650_22_effect_66,16650,66,16650_22,effect,consumption spending support|16650_22
+quality trade-down,other,normal,,speech_16650_narr_16650_23_cause_67,16650,67,16650_23,cause,quality trade-down|16650_23
+consumption spending support,government spending,higher,,speech_16650_narr_16650_23_effect_67,16650,67,16650_23,effect,consumption spending support|16650_23
+borrowing through credit cards,credit,higher,,speech_16650_narr_16650_24_cause_68,16650,68,16650_24,cause,borrowing through credit cards|16650_24
+consumption spending support,government spending,higher,,speech_16650_narr_16650_24_effect_68,16650,68,16650_24,effect,consumption spending support|16650_24
+Fed tightening,interest rates,higher,,speech_16650_narr_16650_25_cause_69,16650,69,16650_25,cause,Fed tightening|16650_25
+Sterling depreciation pressure,exchange rate,higher,,speech_16650_narr_16650_25_effect_69,16650,69,16650_25,effect,Sterling depreciation pressure|16650_25
+Sterling depreciation,exchange rate,higher,,speech_16650_narr_16650_26_cause_70,16650,70,16650_26,cause,Sterling depreciation|16650_26
+inflation increase,inflation,higher,,speech_16650_narr_16650_26_effect_70,16650,70,16650_26,effect,inflation increase|16650_26
+Fed tightening,interest rates,higher,,speech_16650_narr_16650_27_cause_71,16650,71,16650_27,cause,Fed tightening|16650_27
+inflation increase,inflation,higher,,speech_16650_narr_16650_27_effect_71,16650,71,16650_27,effect,inflation increase|16650_27
+domestic conjuncture and global factor,exchange rate,higher,,speech_16650_narr_16650_28_cause_72,16650,72,16650_28,cause,domestic conjuncture and global factor|16650_28
+reduction in risk of inflation boost,inflation,lower,,speech_16650_narr_16650_28_effect_72,16650,72,16650_28,effect,reduction in risk of inflation boost|16650_28
+US monetary policy shocks,interest rates,higher,,speech_16650_narr_16650_29_cause_73,16650,73,16650_29,cause,US monetary policy shocks|16650_29
+spillover into global financial and macroeconomic conditions,financial markets,lower,,speech_16650_narr_16650_29_effect_73,16650,73,16650_29,effect,spillover into global financial and macroeconomic conditions|16650_29
+US monetary policy shocks,interest rates,higher,,speech_16650_narr_16650_30_cause_74,16650,74,16650_30,cause,US monetary policy shocks|16650_30
+depression in world production and trade,output,lower,,speech_16650_narr_16650_30_effect_74,16650,74,16650_30,effect,depression in world production and trade|16650_30
+decrease in global risk-taking,financial markets,lower,,speech_16650_narr_16650_31_cause_75,16650,75,16650_31,cause,decrease in global risk-taking|16650_31
+slowdown,financial markets,lower,,speech_16650_narr_16650_31_effect_75,16650,75,16650_31,effect,slowdown|16650_31
+US monetary policy,interest rates,higher,,speech_16650_narr_16650_32_cause_76,16650,76,16650_32,cause,US monetary policy|16650_32
+contraction in output,output,lower,,speech_16650_narr_16650_32_effect_76,16650,76,16650_32,effect,contraction in output|16650_32
+US monetary policy,interest rates,higher,,speech_16650_narr_16650_33_cause_77,16650,77,16650_33,cause,US monetary policy|16650_33
+contraction in inflation,inflation,lower,,speech_16650_narr_16650_33_effect_77,16650,77,16650_33,effect,contraction in inflation|16650_33
+US tightening,interest rates,higher,,speech_16650_narr_16650_34_cause_78,16650,78,16650_34,cause,US tightening|16650_34
+inflation in emerging market economies,inflation,higher,,speech_16650_narr_16650_34_effect_78,16650,78,16650_34,effect,inflation in emerging market economies|16650_34
+monetary policy loosening by the ECB,interest rates,lower,,speech_16650_narr_16650_35_cause_79,16650,79,16650_35,cause,monetary policy loosening by the ECB|16650_35
+disinflation in non-Euro Central and Eastern European countries,inflation,lower,,speech_16650_narr_16650_35_effect_79,16650,79,16650_35,effect,disinflation in non-Euro Central and Eastern European countries|16650_35
+US tightening,interest rates,higher,,speech_16650_narr_16650_36_cause_80,16650,80,16650_36,cause,US tightening|16650_36
+trade-off inducing for the UK,trade,higher,,speech_16650_narr_16650_36_effect_80,16650,80,16650_36,effect,trade-off inducing for the UK|16650_36
+inflation expectations,inflation,normal,,speech_16651_narr_16651_0_cause_81,16651,81,16651_0,cause,inflation expectations|16651_0
+Phillips curve,inflation,normal,,speech_16651_narr_16651_0_effect_81,16651,81,16651_0,effect,Phillips curve|16651_0
+Monetary Policy Committee raising interest rates,interest rates,higher,,speech_16651_narr_16651_1_cause_82,16651,82,16651_1,cause,Monetary Policy Committee raising interest rates|16651_1
+increased borrowing costs for firms and households,interest rates,higher,,speech_16651_narr_16651_1_effect_82,16651,82,16651_1,effect,increased borrowing costs for firms and households|16651_1
+increased borrowing costs for firms and households,interest rates,higher,,speech_16651_narr_16651_2_cause_83,16651,83,16651_2,cause,increased borrowing costs for firms and households|16651_2
+reduced spending by firms and households,output,lower,,speech_16651_narr_16651_2_effect_83,16651,83,16651_2,effect,reduced spending by firms and households|16651_2
+reduced spending by firms and households,output,lower,,speech_16651_narr_16651_3_cause_84,16651,84,16651_3,cause,reduced spending by firms and households|16651_3
+increased unemployment and slack,labour market,higher,,speech_16651_narr_16651_3_effect_84,16651,84,16651_3,effect,increased unemployment and slack|16651_3
+increased unemployment and slack,labour market,higher,,speech_16651_narr_16651_4_cause_85,16651,85,16651_4,cause,increased unemployment and slack|16651_4
+companies adjusting prices,inflation,lower,,speech_16651_narr_16651_4_effect_85,16651,85,16651_4,effect,companies adjusting prices|16651_4
+Monetary policy,interest rates,normal,,speech_16651_narr_16651_5_cause_86,16651,86,16651_5,cause,Monetary policy|16651_5
+influence on inflation expectations,inflation,higher,,speech_16651_narr_16651_5_effect_86,16651,86,16651_5,effect,influence on inflation expectations|16651_5
+shocks driving inflation away from target,inflation,higher,,speech_16651_narr_16651_6_cause_87,16651,87,16651_6,cause,shocks driving inflation away from target|16651_6
+firms and households using backward-looking rule,inflation,higher,,speech_16651_narr_16651_6_effect_87,16651,87,16651_6,effect,firms and households using backward-looking rule|16651_6
+firms facing bankruptcy,credit,higher,,speech_16651_narr_16651_7_cause_88,16651,88,16651_7,cause,firms facing bankruptcy|16651_7
+raising prices to generate revenues,inflation,higher,,speech_16651_narr_16651_7_effect_88,16651,88,16651_7,effect,raising prices to generate revenues|16651_7
+nominal wage rigidity,labour market,normal,,speech_16651_narr_16651_8_cause_89,16651,89,16651_8,cause,nominal wage rigidity|16651_8
+downward rigidity of prices,inflation,higher,,speech_16651_narr_16651_8_effect_89,16651,89,16651_8,effect,downward rigidity of prices|16651_8
+inflation expectations,inflation,higher,,speech_16651_narr_16651_9_cause_90,16651,90,16651_9,cause,inflation expectations|16651_9
+higher inflation,inflation,higher,,speech_16651_narr_16651_9_effect_90,16651,90,16651_9,effect,higher inflation|16651_9
+economic slack,output,normal,,speech_16651_narr_16651_10_cause_91,16651,91,16651_10,cause,economic slack|16651_10
+prices rising more in expansions than falling in contractions,inflation,higher,,speech_16651_narr_16651_10_effect_91,16651,91,16651_10,effect,prices rising more in expansions than falling in contractions|16651_10
+shocks increasing costs for some firms,inflation,higher,,speech_16651_narr_16651_11_cause_92,16651,92,16651_11,cause,shocks increasing costs for some firms|16651_11
+persistent rise in desired mark-ups,inflation,higher,,speech_16651_narr_16651_11_effect_92,16651,92,16651_11,effect,persistent rise in desired mark-ups|16651_11
+inflation expectations are time-varying,inflation,higher,,speech_16651_narr_16651_12_cause_93,16651,93,16651_12,cause,inflation expectations are time-varying|16651_12
+inflation expectations,inflation,normal,,speech_16651_narr_16651_12_effect_93,16651,93,16651_12,effect,inflation expectations|16651_12
+past inflation,inflation,higher,,speech_16651_narr_16651_13_cause_94,16651,94,16651_13,cause,past inflation|16651_13
+short-term inflation expectations,inflation,higher,,speech_16651_narr_16651_13_effect_94,16651,94,16651_13,effect,short-term inflation expectations|16651_13
+realized inflation,inflation,higher,,speech_16651_narr_16651_14_cause_95,16651,95,16651_14,cause,realized inflation|16651_14
+medium-term measures of inflation expectations,inflation,higher,,speech_16651_narr_16651_14_effect_95,16651,95,16651_14,effect,medium-term measures of inflation expectations|16651_14
+drift in medium-term inflation expectations,inflation,higher,,speech_16651_narr_16651_15_cause_96,16651,96,16651_15,cause,drift in medium-term inflation expectations|16651_15
+medium-term inflation expectations,inflation,higher,,speech_16651_narr_16651_15_effect_96,16651,96,16651_15,effect,medium-term inflation expectations|16651_15
+shock,geopolitical shocks,higher,,speech_16651_narr_16651_16_cause_97,16651,97,16651_16,cause,shock|16651_16
+short-term inflation expectations,inflation,higher,,speech_16651_narr_16651_16_effect_97,16651,97,16651_16,effect,short-term inflation expectations|16651_16
+recent inflation outcomes,inflation,normal,,speech_16651_narr_16651_17_cause_98,16651,98,16651_17,cause,recent inflation outcomes|16651_17
+short-term expectations,inflation,normal,,speech_16651_narr_16651_17_effect_98,16651,98,16651_17,effect,short-term expectations|16651_17
+price changes over the past 12 months,inflation,higher,,speech_16651_narr_16651_18_cause_99,16651,99,16651_18,cause,price changes over the past 12 months|16651_18
+expectations of price changes over the next 12 months,inflation,higher,,speech_16651_narr_16651_18_effect_99,16651,99,16651_18,effect,expectations of price changes over the next 12 months|16651_18
+massive energy price squeeze,inflation,higher,,speech_16651_narr_16651_19_cause_100,16651,100,16651_19,cause,massive energy price squeeze|16651_19
+tightening of financial conditions,financial markets,higher,,speech_16651_narr_16651_19_cause_100,16651,100,16651_19,cause,tightening of financial conditions|16651_19
+financial markets anticipate a worsening macro environment,financial markets,lower,,speech_16651_narr_16651_19_effect_100,16651,100,16651_19,effect,financial markets anticipate a worsening macro environment|16651_19
+current and anticipated policy choices,interest rates,normal,,speech_16651_narr_16651_20_cause_101,16651,101,16651_20,cause,current and anticipated policy choices|16651_20
+medium-term inflation expectations,inflation,normal,,speech_16651_narr_16651_20_effect_101,16651,101,16651_20,effect,medium-term inflation expectations|16651_20
+monetary policy action,interest rates,normal,,speech_16651_narr_16651_21_cause_102,16651,102,16651_21,cause,monetary policy action|16651_21
+price expectations in the DMP,inflation,normal,,speech_16651_narr_16651_21_effect_102,16651,102,16651_21,effect,price expectations in the DMP|16651_21
+MPC cut rates,interest rates,lower,,speech_16651_narr_16651_22_cause_103,16651,103,16651_22,cause,MPC cut rates|16651_22
+inflation expectations,inflation,higher,,speech_16651_narr_16651_22_effect_103,16651,103,16651_22,effect,inflation expectations|16651_22
+MPC hiked rates,interest rates,higher,,speech_16651_narr_16651_23_cause_104,16651,104,16651_23,cause,MPC hiked rates|16651_23
+inflation expectations,inflation,lower,,speech_16651_narr_16651_23_effect_104,16651,104,16651_23,effect,inflation expectations|16651_23
+current wholesale energy prices passed on to households and firms,inflation,higher,,speech_16651_narr_16651_24_cause_105,16651,105,16651_24,cause,current wholesale energy prices passed on to households and firms|16651_24
+enormous pain for millions of people over the winter months,inflation,higher,,speech_16651_narr_16651_24_effect_105,16651,105,16651_24,effect,enormous pain for millions of people over the winter months|16651_24
+shift in the Phillips curve,inflation,higher,,speech_16651_narr_16651_25_cause_106,16651,106,16651_25,cause,shift in the Phillips curve|16651_25
+embedding of inflation,inflation,higher,,speech_16651_narr_16651_25_effect_106,16651,106,16651_25,effect,embedding of inflation|16651_25
+increases in Tre moderated through expectations channel,interest rates,lower,,speech_16651_narr_16651_26_cause_107,16651,107,16651_26,cause,increases in Tre moderated through expectations channel|16651_26
+less of a slowing in aggregate demand,output,higher,,speech_16651_narr_16651_26_effect_107,16651,107,16651_26,effect,less of a slowing in aggregate demand|16651_26
+increases in Tre moderated through expectations channel,interest rates,lower,,speech_16651_narr_16651_27_cause_108,16651,108,16651_27,cause,increases in Tre moderated through expectations channel|16651_27
+less of a rise in unemployment,labour market,lower,,speech_16651_narr_16651_27_effect_108,16651,108,16651_27,effect,less of a rise in unemployment|16651_27
+persistent misses of the target,inflation,lower,,speech_16651_narr_16651_28_cause_109,16651,109,16651_28,cause,persistent misses of the target|16651_28
+more backward-looking inflation expectations,inflation,higher,,speech_16651_narr_16651_28_effect_109,16651,109,16651_28,effect,more backward-looking inflation expectations|16651_28
+more backward-looking inflation expectations,inflation,higher,,speech_16651_narr_16651_29_cause_110,16651,110,16651_29,cause,more backward-looking inflation expectations|16651_29
+increased dependence on aggregate demand slowdown,output,lower,,speech_16651_narr_16651_29_effect_110,16651,110,16651_29,effect,increased dependence on aggregate demand slowdown|16651_29
+spikes in short-term inflation expectations,inflation,higher,,speech_16651_narr_16651_30_cause_111,16651,111,16651_30,cause,spikes in short-term inflation expectations|16651_30
+drift in medium-term household inflation expectations,inflation,higher,,speech_16651_narr_16651_30_effect_111,16651,111,16651_30,effect,drift in medium-term household inflation expectations|16651_30
+sequence of shocks,inflation,higher,,speech_16651_narr_16651_31_cause_112,16651,112,16651_31,cause,sequence of shocks|16651_31
+extended duration of time above 2% target,inflation,higher,,speech_16651_narr_16651_31_effect_112,16651,112,16651_31,effect,extended duration of time above 2% target|16651_31
+share of backward-looking agents,inflation,higher,,speech_16651_narr_16651_32_cause_113,16651,113,16651_32,cause,share of backward-looking agents|16651_32
+more intrinsic inflation persistence,inflation,higher,,speech_16651_narr_16651_32_effect_113,16651,113,16651_32,effect,more intrinsic inflation persistence|16651_32
+broadening of categories with higher-than-target inflation,inflation,higher,,speech_16651_narr_16651_33_cause_114,16651,114,16651_33,cause,broadening of categories with higher-than-target inflation|16651_33
+upward-bias to wage negotiations,labour market,higher,,speech_16651_narr_16651_33_effect_114,16651,114,16651_33,effect,upward-bias to wage negotiations|16651_33
+broadening of categories with higher-than-target inflation,inflation,higher,,speech_16651_narr_16651_34_cause_115,16651,115,16651_34,cause,broadening of categories with higher-than-target inflation|16651_34
+me-too-ism in firms pricing strategies,inflation,higher,,speech_16651_narr_16651_34_effect_115,16651,115,16651_34,effect,me-too-ism in firms pricing strategies|16651_34
+ratcheting-up from short-term to medium-term expectations,inflation,higher,,speech_16651_narr_16651_35_cause_116,16651,116,16651_35,cause,ratcheting-up from short-term to medium-term expectations|16651_35
+persistent drift higher,inflation,higher,,speech_16651_narr_16651_35_effect_116,16651,116,16651_35,effect,persistent drift higher|16651_35
+persistent drift higher in expectations,inflation,higher,,speech_16651_narr_16651_36_cause_117,16651,117,16651_36,cause,persistent drift higher in expectations|16651_36
+persistently tighter stance of monetary policy,interest rates,higher,,speech_16651_narr_16651_36_effect_117,16651,117,16651_36,effect,persistently tighter stance of monetary policy|16651_36
+gradual pace of increase in Bank Rate,interest rates,higher,,speech_16651_narr_16651_37_cause_118,16651,118,16651_37,cause,gradual pace of increase in Bank Rate|16651_37
+embedding of short-term inflation overshoot into persistent drift in medium-term expectations,inflation,higher,,speech_16651_narr_16651_37_effect_118,16651,118,16651_37,effect,embedding of short-term inflation overshoot into persistent drift in medium-term expectations|16651_37
+shift outward of the Phillips curve,inflation,higher,,speech_16651_narr_16651_38_cause_119,16651,119,16651_38,cause,shift outward of the Phillips curve|16651_38
+permanently higher unemployment,labour market,higher,,speech_16651_narr_16651_38_effect_119,16651,119,16651_38,effect,permanently higher unemployment|16651_38
+shift outward of the Phillips curve,labour market,higher,,speech_16651_narr_16651_39_cause_120,16651,120,16651_39,cause,shift outward of the Phillips curve|16651_39
+lower aggregate demand,output,lower,,speech_16651_narr_16651_39_effect_120,16651,120,16651_39,effect,lower aggregate demand|16651_39
+ratcheting-up and persistently high inflation in 1970s,inflation,higher,,speech_16651_narr_16651_40_cause_121,16651,121,16651_40,cause,ratcheting-up and persistently high inflation in 1970s|16651_40
+long duration of elevated unemployment,labour market,higher,,speech_16651_narr_16651_40_effect_121,16651,121,16651_40,effect,long duration of elevated unemployment|16651_40
+tighter policy stance now working through expectations,interest rates,higher,,speech_16651_narr_16651_41_cause_122,16651,122,16651_41,cause,tighter policy stance now working through expectations|16651_41
+degree of restraint to aggregate demand,output,lower,,speech_16651_narr_16651_41_effect_122,16651,122,16651_41,effect,degree of restraint to aggregate demand|16651_41
+firms believe monetary policy will keep Phillips curve from shifting,inflation,normal,,speech_16651_narr_16651_42_cause_123,16651,123,16651_42,cause,firms believe monetary policy will keep Phillips curve from shifting|16651_42
+price expectations,inflation,normal,,speech_16651_narr_16651_42_effect_123,16651,123,16651_42,effect,price expectations|16651_42
+complementarity in firms price setting,inflation,lower,,speech_16651_narr_16651_43_cause_124,16651,124,16651_43,cause,complementarity in firms price setting|16651_43
+lower macro inflation,inflation,lower,,speech_16651_narr_16651_43_effect_124,16651,124,16651_43,effect,lower macro inflation|16651_43
+monetary policy does not affect expectations formation,interest rates,lower,,speech_16651_narr_16651_44_cause_125,16651,125,16651_44,cause,monetary policy does not affect expectations formation|16651_44
+drift in medium-term expectations yields worrisome shift of Phillips curve,inflation,higher,,speech_16651_narr_16651_44_effect_125,16651,125,16651_44,effect,drift in medium-term expectations yields worrisome shift of Phillips curve|16651_44
+acting more forcefully now,interest rates,higher,,speech_16651_narr_16651_45_cause_126,16651,126,16651_45,cause,acting more forcefully now|16651_45
+deeper and longer contraction,output,lower,,speech_16651_narr_16651_45_effect_126,16651,126,16651_45,effect,deeper and longer contraction|16651_45
+energy prices,inflation,lower,,speech_16651_narr_16651_46_cause_127,16651,127,16651_46,cause,energy prices|16651_46
+inflation below target,inflation,lower,,speech_16651_narr_16651_46_effect_127,16651,127,16651_46,effect,inflation below target|16651_46
+negative effects from Covid on sales,output,lower,,speech_16651_narr_16651_47_cause_128,16651,128,16651_47,cause,negative effects from Covid on sales|16651_47
+firms decreased prices less,inflation,higher,,speech_16651_narr_16651_47_effect_128,16651,128,16651_47,effect,firms decreased prices less|16651_47
+positive effects from Covid on sales,output,higher,,speech_16651_narr_16651_48_cause_129,16651,129,16651_48,cause,positive effects from Covid on sales|16651_48
+firms increased prices more,inflation,higher,,speech_16651_narr_16651_48_effect_129,16651,129,16651_48,effect,firms increased prices more|16651_48
+real rate increase,interest rates,higher,,speech_16651_narr_16651_49_cause_130,16651,130,16651_49,cause,real rate increase|16651_49
+inflation decrease,inflation,lower,,speech_16651_narr_16651_49_effect_130,16651,130,16651_49,effect,inflation decrease|16651_49
+central bank increasing nominal rate more,interest rates,higher,,speech_16651_narr_16651_50_cause_131,16651,131,16651_50,cause,central bank increasing nominal rate more|16651_50
+determinacy conditions met,interest rates,higher,,speech_16651_narr_16651_50_effect_131,16651,131,16651_50,effect,determinacy conditions met|16651_50
+inflation expectations anchored,inflation,lower,,speech_16651_narr_16651_51_cause_132,16651,132,16651_51,cause,inflation expectations anchored|16651_51
+difficulty stimulating economy,output,lower,,speech_16651_narr_16651_51_effect_132,16651,132,16651_51,effect,difficulty stimulating economy|16651_51
+furlough scheme introduction,labour market,lower,,speech_16651_narr_16651_52_cause_133,16651,133,16651_52,cause,furlough scheme introduction|16651_52
+unemployment rate not rising,labour market,normal,,speech_16651_narr_16651_52_effect_133,16651,133,16651_52,effect,unemployment rate not rising|16651_52
+energy prices,inflation,higher,,speech_16651_narr_16651_53_cause_134,16651,134,16651_53,cause,energy prices|16651_53
+3 percentage points of current inflation,inflation,higher,,speech_16651_narr_16651_53_effect_134,16651,134,16651_53,effect,3 percentage points of current inflation|16651_53
+energy prices,inflation,higher,,speech_16651_narr_16651_54_cause_135,16651,135,16651_54,cause,energy prices|16651_54
+7 percentage points of inflation,inflation,higher,,speech_16651_narr_16651_54_effect_135,16651,135,16651_54,effect,7 percentage points of inflation|16651_54
+announcements of rate changes,interest rates,higher,,speech_16651_narr_16651_55_cause_136,16651,136,16651_55,cause,announcements of rate changes|16651_55
+household expectations,inflation,higher,,speech_16651_narr_16651_55_effect_136,16651,136,16651_55,effect,household expectations|16651_55
+expectations reacting immediately,inflation,higher,,speech_16651_narr_16651_56_cause_137,16651,137,16651_56,cause,expectations reacting immediately|16651_56
+inflation adjusting before real economy,inflation,higher,,speech_16651_narr_16651_56_effect_137,16651,137,16651_56,effect,inflation adjusting before real economy|16651_56
+advanced economy central banks,interest rates,higher,,speech_16652_narr_16652_0_cause_138,16652,138,16652_0,cause,advanced economy central banks|16652_0
+increase in policy rates,interest rates,higher,,speech_16652_narr_16652_0_effect_138,16652,138,16652_0,effect,increase in policy rates|16652_0
+Federal Reserve,interest rates,higher,,speech_16652_narr_16652_1_cause_139,16652,139,16652_1,cause,Federal Reserve|16652_1
+increase in policy rate by 25 basis points,interest rates,higher,,speech_16652_narr_16652_1_effect_139,16652,139,16652_1,effect,increase in policy rate by 25 basis points|16652_1
+European Central Bank,interest rates,higher,,speech_16652_narr_16652_2_cause_140,16652,140,16652_2,cause,European Central Bank|16652_2
+increase in policy rate by 50 basis points,interest rates,higher,,speech_16652_narr_16652_2_effect_140,16652,140,16652_2,effect,increase in policy rate by 50 basis points|16652_2
+Bank of England,interest rates,higher,,speech_16652_narr_16652_3_cause_141,16652,141,16652_3,cause,Bank of England|16652_3
+increase in policy rate by 50 basis points,interest rates,higher,,speech_16652_narr_16652_3_effect_141,16652,141,16652_3,effect,increase in policy rate by 50 basis points|16652_3
+Bank of Canada,interest rates,normal,,speech_16652_narr_16652_4_cause_142,16652,142,16652_4,cause,Bank of Canada|16652_4
+signal of policy rate pause,interest rates,normal,,speech_16652_narr_16652_4_effect_142,16652,142,16652_4,effect,signal of policy rate pause|16652_4
+Bank of Japan,interest rates,normal,,speech_16652_narr_16652_5_cause_143,16652,143,16652_5,cause,Bank of Japan|16652_5
+maintenance of updated yield curve control target,interest rates,normal,,speech_16652_narr_16652_5_effect_143,16652,143,16652_5,effect,maintenance of updated yield curve control target|16652_5
+turning point in data,other,higher,,speech_16652_narr_16652_6_cause_144,16652,144,16652_6,cause,turning point in data|16652_6
+inflection in policy paths,interest rates,higher,,speech_16652_narr_16652_6_effect_144,16652,144,16652_6,effect,inflection in policy paths|16652_6
+turning point in data,other,higher,,speech_16652_narr_16652_7_cause_145,16652,145,16652_7,cause,turning point in data|16652_7
+re-assessment of policy,interest rates,higher,,speech_16652_narr_16652_7_effect_145,16652,145,16652_7,effect,re-assessment of policy|16652_7
+calibration of policy,interest rates,normal,,speech_16652_narr_16652_8_cause_146,16652,146,16652_8,cause,calibration of policy|16652_8
+impact on inflation,inflation,normal,,speech_16652_narr_16652_8_effect_146,16652,146,16652_8,effect,impact on inflation|16652_8
+calibration of policy,interest rates,normal,,speech_16652_narr_16652_9_cause_147,16652,147,16652_9,cause,calibration of policy|16652_9
+impact on employment,labour market,normal,,speech_16652_narr_16652_9_effect_147,16652,147,16652_9,effect,impact on employment|16652_9
+UK labor market conditions,labour market,higher,,speech_16652_narr_16652_10_cause_148,16652,148,16652_10,cause,UK labor market conditions|16652_10
+stronger wage growth,labour market,higher,,speech_16652_narr_16652_10_effect_148,16652,148,16652_10,effect,stronger wage growth|16652_10
+Covid and lockdowns,labour market,higher,,speech_16652_narr_16652_11_cause_149,16652,149,16652_11,cause,Covid and lockdowns|16652_11
+structural changes in UK labor market,labour market,higher,,speech_16652_narr_16652_11_effect_149,16652,149,16652_11,effect,structural changes in UK labor market|16652_11
+Russia's invasion of Ukraine,geopolitical shocks,higher,,speech_16652_narr_16652_12_cause_150,16652,150,16652_12,cause,Russia's invasion of Ukraine|16652_12
+rise in production costs for firms,geopolitical shocks,higher,,speech_16652_narr_16652_12_effect_150,16652,150,16652_12,effect,rise in production costs for firms|16652_12
+yield curve inversion,interest rates,higher,,speech_16652_narr_16652_13_cause_151,16652,151,16652_13,cause,yield curve inversion|16652_13
+recession indicator,financial markets,higher,,speech_16652_narr_16652_13_effect_151,16652,151,16652_13,effect,recession indicator|16652_13
+central banks tightening in the short term,interest rates,higher,,speech_16652_narr_16652_14_cause_152,16652,152,16652_14,cause,central banks tightening in the short term|16652_14
+recession,output,higher,,speech_16652_narr_16652_14_effect_152,16652,152,16652_14,effect,recession|16652_14
+central banks cutting interest rates in the future,interest rates,lower,,speech_16652_narr_16652_15_cause_153,16652,153,16652_15,cause,central banks cutting interest rates in the future|16652_15
+response to recession,interest rates,lower,,speech_16652_narr_16652_15_effect_153,16652,153,16652_15,effect,response to recession|16652_15
+households willing to pay prices,inflation,lower,,speech_16652_narr_16652_16_cause_154,16652,154,16652_16,cause,households willing to pay prices|16652_16
+firms realizing expected pricing power,inflation,normal,,speech_16652_narr_16652_16_effect_154,16652,154,16652_16,effect,firms realizing expected pricing power|16652_16
+buyer revolt,inflation,lower,,speech_16652_narr_16652_17_cause_155,16652,155,16652_17,cause,buyer revolt|16652_17
+turning point signal,inflation,lower,,speech_16652_narr_16652_17_effect_155,16652,155,16652_17,effect,turning point signal|16652_17
+"global energy, food, and goods prices",inflation,lower,,speech_16652_narr_16652_18_cause_156,16652,156,16652_18,cause,"global energy, food, and goods prices|16652_18"
+deceleration of inflation,inflation,lower,,speech_16652_narr_16652_18_effect_156,16652,156,16652_18,effect,deceleration of inflation|16652_18
+expected weakness in demand relative to supply,output,lower,,speech_16652_narr_16652_19_cause_157,16652,157,16652_19,cause,expected weakness in demand relative to supply|16652_19
+discipline in domestic price and wage setting,inflation,lower,,speech_16652_narr_16652_19_effect_157,16652,157,16652_19,effect,discipline in domestic price and wage setting|16652_19
+large fiscal stimulus in the US,government spending,higher,,speech_16652_narr_16652_20_cause_158,16652,158,16652_20,cause,large fiscal stimulus in the US|16652_20
+inflationary surges,inflation,higher,,speech_16652_narr_16652_20_effect_158,16652,158,16652_20,effect,inflationary surges|16652_20
+shift up and steepness of the curve,interest rates,higher,,speech_16652_narr_16652_21_cause_159,16652,159,16652_21,cause,shift up and steepness of the curve|16652_21
+market expectations of the path that the MPC would need to take,interest rates,higher,,speech_16652_narr_16652_21_effect_159,16652,159,16652_21,effect,market expectations of the path that the MPC would need to take|16652_21
+unexpected increase in inflation,inflation,higher,,speech_16652_narr_16652_22_cause_160,16652,160,16652_22,cause,unexpected increase in inflation|16652_22
+nominal interest rate,interest rates,higher,,speech_16652_narr_16652_22_effect_160,16652,160,16652_22,effect,nominal interest rate|16652_22
+unexpected increase in inflation,inflation,higher,,speech_16652_narr_16652_23_cause_161,16652,161,16652_23,cause,unexpected increase in inflation|16652_23
+real rate,interest rates,higher,,speech_16652_narr_16652_23_effect_161,16652,161,16652_23,effect,real rate|16652_23
+falling real rate,interest rates,lower,,speech_16652_narr_16652_24_cause_162,16652,162,16652_24,cause,falling real rate|16652_24
+consumption and investment decisions,interest rates,lower,,speech_16652_narr_16652_24_effect_162,16652,162,16652_24,effect,consumption and investment decisions|16652_24
+rising real rate,interest rates,higher,,speech_16652_narr_16652_25_cause_163,16652,163,16652_25,cause,rising real rate|16652_25
+consumption and investment decisions,interest rates,higher,,speech_16652_narr_16652_25_effect_163,16652,163,16652_25,effect,consumption and investment decisions|16652_25
+real rates,interest rates,lower,,speech_16652_narr_16652_26_cause_164,16652,164,16652_26,cause,real rates|16652_26
+stance of monetary policy becomes more expansionary,interest rates,lower,,speech_16652_narr_16652_26_effect_164,16652,164,16652_26,effect,stance of monetary policy becomes more expansionary|16652_26
+nominal rates,interest rates,higher,,speech_16652_narr_16652_27_cause_165,16652,165,16652_27,cause,nominal rates|16652_27
+real rates,interest rates,lower,,speech_16652_narr_16652_27_effect_165,16652,165,16652_27,effect,real rates|16652_27
+real rates,interest rates,lower,,speech_16652_narr_16652_28_cause_166,16652,166,16652_28,cause,real rates|16652_28
+inflation became entrenched,inflation,higher,,speech_16652_narr_16652_28_effect_166,16652,166,16652_28,effect,inflation became entrenched|16652_28
+policymakers implement policies focused on reducing carbon emissions,other,higher,,speech_16652_narr_16652_29_cause_167,16652,167,16652_29,cause,policymakers implement policies focused on reducing carbon emissions|16652_29
+volatility of inflation,inflation,higher,,speech_16652_narr_16652_29_effect_167,16652,167,16652_29,effect,volatility of inflation|16652_29
+OECD CLIs,output,normal,,speech_16652_narr_16652_30_cause_168,16652,168,16652_30,cause,OECD CLIs|16652_30
+business cycle fluctuations,output,normal,,speech_16652_narr_16652_30_effect_168,16652,168,16652_30,effect,business cycle fluctuations|16652_30
+high weight on slack in the economy by monetary policymaker,output,higher,,speech_16652_narr_16652_31_cause_169,16652,169,16652_31,cause,high weight on slack in the economy by monetary policymaker|16652_31
+determinate price level,inflation,normal,,speech_16652_narr_16652_31_effect_169,16652,169,16652_31,effect,determinate price level|16652_31
+positive trend inflation,inflation,higher,,speech_16652_narr_16652_32_cause_170,16652,170,16652_32,cause,positive trend inflation|16652_32
+region of determinacy shrinks,inflation,lower,,speech_16652_narr_16652_32_effect_170,16652,170,16652_32,effect,region of determinacy shrinks|16652_32
+minor amounts of myopia,other,lower,,speech_16652_narr_16652_33_cause_171,16652,171,16652_33,cause,minor amounts of myopia|16652_33
+problem of indeterminacy,other,lower,,speech_16652_narr_16652_33_effect_171,16652,171,16652_33,effect,problem of indeterminacy|16652_33
+long-term factors such as demographics,productivity,lower,,speech_16652_narr_16652_34_cause_172,16652,172,16652_34,cause,long-term factors such as demographics|16652_34
+falling time-varying equilibrium rate,interest rates,lower,,speech_16652_narr_16652_34_effect_172,16652,172,16652_34,effect,falling time-varying equilibrium rate|16652_34
+medium-term headwinds,other,lower,,speech_16652_narr_16652_35_cause_173,16652,173,16652_35,cause,medium-term headwinds|16652_35
+falling time-varying equilibrium rate,interest rates,lower,,speech_16652_narr_16652_35_effect_173,16652,173,16652_35,effect,falling time-varying equilibrium rate|16652_35
+measured real yields,interest rates,lower,,speech_16652_narr_16652_36_cause_174,16652,174,16652_36,cause,measured real yields|16652_36
+stand still,interest rates,normal,,speech_16652_narr_16652_36_effect_174,16652,174,16652_36,effect,stand still|16652_36
+changes in monetary policy,interest rates,normal,,speech_16653_narr_16653_0_cause_175,16653,175,16653_0,cause,changes in monetary policy|16653_0
+changes in inflation,inflation,normal,,speech_16653_narr_16653_0_effect_175,16653,175,16653_0,effect,changes in inflation|16653_0
+changes in the economy and economic environment,output,normal,,speech_16653_narr_16653_1_cause_176,16653,176,16653_1,cause,changes in the economy and economic environment|16653_1
+changes in monetary transmission,interest rates,normal,,speech_16653_narr_16653_1_effect_176,16653,176,16653_1,effect,changes in monetary transmission|16653_1
+raising Bank Rate,interest rates,higher,,speech_16653_narr_16653_2_cause_177,16653,177,16653_2,cause,raising Bank Rate|16653_2
+tightening of monetary conditions,interest rates,higher,,speech_16653_narr_16653_2_effect_177,16653,177,16653_2,effect,tightening of monetary conditions|16653_2
+tightening in financial conditions,financial markets,higher,,speech_16653_narr_16653_3_cause_178,16653,178,16653_3,cause,tightening in financial conditions|16653_3
+households cut back on consumption,output,lower,,speech_16653_narr_16653_3_effect_178,16653,178,16653_3,effect,households cut back on consumption|16653_3
+tightening in financial conditions,financial markets,higher,,speech_16653_narr_16653_4_cause_179,16653,179,16653_4,cause,tightening in financial conditions|16653_4
+firms reduce investment,output,lower,,speech_16653_narr_16653_4_effect_179,16653,179,16653_4,effect,firms reduce investment|16653_4
+expectations about the future,other,normal,,speech_16653_narr_16653_5_cause_180,16653,180,16653_5,cause,expectations about the future|16653_5
+influence on the present,other,normal,,speech_16653_narr_16653_5_effect_180,16653,180,16653_5,effect,influence on the present|16653_5
+MPC's tightening in monetary policy,interest rates,higher,,speech_16653_narr_16653_6_cause_181,16653,181,16653_6,cause,MPC's tightening in monetary policy|16653_6
+downward effect on equity prices,financial markets,lower,,speech_16653_narr_16653_6_effect_181,16653,181,16653_6,effect,downward effect on equity prices|16653_6
+shareholder payout,financial markets,higher,,speech_16653_narr_16653_7_cause_182,16653,182,16653_7,cause,shareholder payout|16653_7
+positive contribution to equity prices,financial markets,higher,,speech_16653_narr_16653_7_effect_182,16653,182,16653_7,effect,positive contribution to equity prices|16653_7
+equity risk premium,financial markets,higher,,speech_16653_narr_16653_8_cause_183,16653,183,16653_8,cause,equity risk premium|16653_8
+positive contribution to equity prices,financial markets,higher,,speech_16653_narr_16653_8_effect_183,16653,183,16653_8,effect,positive contribution to equity prices|16653_8
+monetary policy tightening through interest rates,interest rates,higher,,speech_16653_narr_16653_9_cause_184,16653,184,16653_9,cause,monetary policy tightening through interest rates|16653_9
+effects on equity prices,financial markets,lower,,speech_16653_narr_16653_9_effect_184,16653,184,16653_9,effect,effects on equity prices|16653_9
+rise in UK interest rates,interest rates,higher,,speech_16653_narr_16653_10_cause_185,16653,185,16653_10,cause,rise in UK interest rates|16653_10
+Sterling appreciation,exchange rate,lower,,speech_16653_narr_16653_10_effect_185,16653,185,16653_10,effect,Sterling appreciation|16653_10
+Federal Reserve tightening,interest rates,higher,,speech_16653_narr_16653_11_cause_186,16653,186,16653_11,cause,Federal Reserve tightening|16653_11
+Sterling depreciation,exchange rate,lower,,speech_16653_narr_16653_11_effect_186,16653,186,16653_11,effect,Sterling depreciation|16653_11
+MPC tightening,interest rates,higher,,speech_16653_narr_16653_12_cause_187,16653,187,16653_12,cause,MPC tightening|16653_12
+Sterling depreciation,exchange rate,lower,,speech_16653_narr_16653_12_effect_187,16653,187,16653_12,effect,Sterling depreciation|16653_12
+persistent UK-specific risk premium,exchange rate,higher,,speech_16653_narr_16653_13_cause_188,16653,188,16653_13,cause,persistent UK-specific risk premium|16653_13
+reduced appetite for Sterling assets,financial markets,lower,,speech_16653_narr_16653_13_effect_188,16653,188,16653_13,effect,reduced appetite for Sterling assets|16653_13
+depreciation of Sterling,exchange rate,lower,,speech_16653_narr_16653_14_cause_189,16653,189,16653_14,cause,depreciation of Sterling|16653_14
+looser financial conditions,financial markets,lower,,speech_16653_narr_16653_14_effect_189,16653,189,16653_14,effect,looser financial conditions|16653_14
+falling equity risk premium,financial markets,lower,,speech_16653_narr_16653_15_cause_190,16653,190,16653_15,cause,falling equity risk premium|16653_15
+looser financial conditions,financial markets,lower,,speech_16653_narr_16653_15_effect_190,16653,190,16653_15,effect,looser financial conditions|16653_15
+monetary policy shock,interest rates,higher,,speech_16653_narr_16653_16_cause_191,16653,191,16653_16,cause,monetary policy shock|16653_16
+appreciation of Sterling exchange rate index,exchange rate,higher,,speech_16653_narr_16653_16_effect_191,16653,191,16653_16,effect,appreciation of Sterling exchange rate index|16653_16
+monetary policy shock,interest rates,higher,,speech_16653_narr_16653_17_cause_192,16653,192,16653_17,cause,monetary policy shock|16653_17
+delayed response on the level of real GDP,output,lower,,speech_16653_narr_16653_17_effect_192,16653,192,16653_17,effect,delayed response on the level of real GDP|16653_17
+contractionary monetary policy,interest rates,higher,,speech_16653_narr_16653_18_cause_193,16653,193,16653_18,cause,contractionary monetary policy|16653_18
+permanently negative effect on the level of output relative to trend,output,lower,,speech_16653_narr_16653_18_effect_193,16653,193,16653_18,effect,permanently negative effect on the level of output relative to trend|16653_18
+monetary policy shock,interest rates,lower,,speech_16653_narr_16653_19_cause_194,16653,194,16653_19,cause,monetary policy shock|16653_19
+negative effect on the level of CPI,inflation,lower,,speech_16653_narr_16653_19_effect_194,16653,194,16653_19,effect,negative effect on the level of CPI|16653_19
+announced changes in the monetary policy rate,interest rates,higher,,speech_16653_narr_16653_20_cause_195,16653,195,16653_20,cause,announced changes in the monetary policy rate|16653_20
+firms revise their price expectations,inflation,lower,,speech_16653_narr_16653_20_effect_195,16653,195,16653_20,effect,firms revise their price expectations|16653_20
+changes in the effectiveness of monetary policy,interest rates,normal,,speech_16653_narr_16653_21_cause_196,16653,196,16653_21,cause,changes in the effectiveness of monetary policy|16653_21
+control of inflation,inflation,normal,,speech_16653_narr_16653_21_effect_196,16653,196,16653_21,effect,control of inflation|16653_21
+monetary tightening,interest rates,higher,,speech_16653_narr_16653_22_cause_197,16653,197,16653_22,cause,monetary tightening|16653_22
+effect on inflation,inflation,lower,,speech_16653_narr_16653_22_effect_197,16653,197,16653_22,effect,effect on inflation|16653_22
+energy prices surge,inflation,higher,,speech_16653_narr_16653_23_cause_198,16653,198,16653_23,cause,energy prices surge|16653_23
+share of backward-looking agents,other,higher,,speech_16653_narr_16653_23_effect_198,16653,198,16653_23,effect,share of backward-looking agents|16653_23
+cost-push shock,inflation,higher,,speech_16653_narr_16653_24_cause_199,16653,199,16653_24,cause,cost-push shock|16653_24
+increase in prices,inflation,higher,,speech_16653_narr_16653_24_effect_199,16653,199,16653_24,effect,increase in prices|16653_24
+cost-push shock,inflation,normal,,speech_16653_narr_16653_25_cause_200,16653,200,16653_25,cause,cost-push shock|16653_25
+limited and short-lived impact on activity and prices,inflation,lower,,speech_16653_narr_16653_25_effect_200,16653,200,16653_25,effect,limited and short-lived impact on activity and prices|16653_25
+lagged nature of year-on-year inflation,inflation,normal,,speech_16653_narr_16653_26_cause_201,16653,201,16653_26,cause,lagged nature of year-on-year inflation|16653_26
+inflation peaks after four quarters,inflation,higher,,speech_16653_narr_16653_26_effect_201,16653,201,16653_26,effect,inflation peaks after four quarters|16653_26
+backward-looking inflation expectations formation,inflation,higher,,speech_16653_narr_16653_27_cause_202,16653,202,16653_27,cause,backward-looking inflation expectations formation|16653_27
+output gap more negative for longer,output,lower,,speech_16653_narr_16653_27_effect_202,16653,202,16653_27,effect,output gap more negative for longer|16653_27
+backward-looking inflation expectations formation,inflation,higher,,speech_16653_narr_16653_28_cause_203,16653,203,16653_28,cause,backward-looking inflation expectations formation|16653_28
+inflation peaking higher and remaining above target,inflation,higher,,speech_16653_narr_16653_28_effect_203,16653,203,16653_28,effect,inflation peaking higher and remaining above target|16653_28
+increasing share of backward-looking agents,other,higher,,speech_16653_narr_16653_29_cause_204,16653,204,16653_29,cause,increasing share of backward-looking agents|16653_29
+pronounced hump-shaped pattern in output,output,higher,,speech_16653_narr_16653_29_effect_204,16653,204,16653_29,effect,pronounced hump-shaped pattern in output|16653_29
+pronounced hump-shaped pattern in inflation,inflation,higher,,speech_16653_narr_16653_29_effect_204,16653,204,16653_29,effect,pronounced hump-shaped pattern in inflation|16653_29
+increased share of backward-looking firms,inflation,higher,,speech_16653_narr_16653_30_cause_205,16653,205,16653_30,cause,increased share of backward-looking firms|16653_30
+speed at which monetary policy affects realised inflation changes,inflation,normal,,speech_16653_narr_16653_30_effect_205,16653,205,16653_30,effect,speed at which monetary policy affects realised inflation changes|16653_30
+increasing degree of backward-lookingness,inflation,higher,,speech_16653_narr_16653_31_cause_206,16653,206,16653_31,cause,increasing degree of backward-lookingness|16653_31
+shrinking share of price-setters considering supply and demand conditions,inflation,lower,,speech_16653_narr_16653_31_effect_206,16653,206,16653_31,effect,shrinking share of price-setters considering supply and demand conditions|16653_31
+high share of backward-looking agents,other,higher,,speech_16653_narr_16653_32_cause_207,16653,207,16653_32,cause,high share of backward-looking agents|16653_32
+monetary policy effectiveness diminished,interest rates,lower,,speech_16653_narr_16653_32_effect_207,16653,207,16653_32,effect,monetary policy effectiveness diminished|16653_32
+sequence of large inflationary shocks,inflation,higher,,speech_16653_narr_16653_33_cause_208,16653,208,16653_33,cause,sequence of large inflationary shocks|16653_33
+increased risk of being in the purple world,geopolitical shocks,higher,,speech_16653_narr_16653_33_effect_208,16653,208,16653_33,effect,increased risk of being in the purple world|16653_33
+sequence of shocks,geopolitical shocks,higher,,speech_16653_narr_16653_34_cause_209,16653,209,16653_34,cause,sequence of shocks|16653_34
+change in monetary transmission lags,interest rates,normal,,speech_16653_narr_16653_34_effect_209,16653,209,16653_34,effect,change in monetary transmission lags|16653_34
+transmission from monetary policy to financial markets,financial markets,normal,,speech_16653_narr_16653_35_cause_210,16653,210,16653_35,cause,transmission from monetary policy to financial markets|16653_35
+change in monetary transmission lags,interest rates,normal,,speech_16653_narr_16653_35_effect_210,16653,210,16653_35,effect,change in monetary transmission lags|16653_35
+degree of backward- or forward-lookingness in expectations formation,inflation,normal,,speech_16653_narr_16653_36_cause_211,16653,211,16653_36,cause,degree of backward- or forward-lookingness in expectations formation|16653_36
+effectiveness of monetary policy,interest rates,lower,,speech_16653_narr_16653_36_effect_211,16653,211,16653_36,effect,effectiveness of monetary policy|16653_36
+greater degree of front-loading,interest rates,higher,,speech_16653_narr_16653_37_cause_212,16653,212,16653_37,cause,greater degree of front-loading|16653_37
+risk of increasing share of backward-looking households and firms,inflation,lower,,speech_16653_narr_16653_37_effect_212,16653,212,16653_37,effect,risk of increasing share of backward-looking households and firms|16653_37
+monetary policy path,interest rates,normal,,speech_16653_narr_16653_38_cause_213,16653,213,16653_38,cause,monetary policy path|16653_38
+quick transmission to financial markets,financial markets,higher,,speech_16653_narr_16653_38_effect_213,16653,213,16653_38,effect,quick transmission to financial markets|16653_38
+financial conditions looser than needed,financial markets,lower,,speech_16653_narr_16653_39_cause_214,16653,214,16653_39,cause,financial conditions looser than needed|16653_39
+extended persistence of inflation,inflation,higher,,speech_16653_narr_16653_39_effect_214,16653,214,16653_39,effect,extended persistence of inflation|16653_39
+long period of time above the 2% target,inflation,higher,,speech_16653_narr_16653_40_cause_215,16653,215,16653_40,cause,long period of time above the 2% target|16653_40
+increase in degree of backward-lookingness,inflation,higher,,speech_16653_narr_16653_40_effect_215,16653,215,16653_40,effect,increase in degree of backward-lookingness|16653_40
+risk of increasingly persistent inflation,inflation,higher,,speech_16653_narr_16653_41_cause_216,16653,216,16653_41,cause,risk of increasingly persistent inflation|16653_41
+more tightening needed,interest rates,higher,,speech_16653_narr_16653_41_effect_216,16653,216,16653_41,effect,more tightening needed|16653_41
+failing to do enough now,inflation,higher,,speech_16653_narr_16653_42_cause_217,16653,217,16653_42,cause,failing to do enough now|16653_42
+higher inflation,inflation,higher,,speech_16653_narr_16653_42_effect_217,16653,217,16653_42,effect,higher inflation|16653_42
+lower activity,output,lower,,speech_16653_narr_16653_42_effect_217,16653,217,16653_42,effect,lower activity|16653_42
+credit shocks,credit,higher,,speech_16653_narr_16653_43_cause_218,16653,218,16653_43,cause,credit shocks|16653_43
+output responses,output,normal,,speech_16653_narr_16653_43_effect_218,16653,218,16653_43,effect,output responses|16653_43
+credit shocks,credit,higher,,speech_16653_narr_16653_44_cause_219,16653,219,16653_44,cause,credit shocks|16653_44
+inflation responses,inflation,normal,,speech_16653_narr_16653_44_effect_219,16653,219,16653_44,effect,inflation responses|16653_44
+development of a new lending tool for non-bank financial institutions,financial markets,higher,,speech_16654_narr_16654_0_cause_220,16654,220,16654_0,cause,development of a new lending tool for non-bank financial institutions|16654_0
+tackling systemic risks in market-based finance,financial markets,higher,,speech_16654_narr_16654_0_effect_220,16654,220,16654_0,effect,tackling systemic risks in market-based finance|16654_0
+shift away from traditional banks to Non-Bank Financial Institutions,financial markets,higher,,speech_16654_narr_16654_1_cause_221,16654,221,16654_1,cause,shift away from traditional banks to Non-Bank Financial Institutions|16654_1
+increased competition and innovation in financial services,financial markets,higher,,speech_16654_narr_16654_1_effect_221,16654,221,16654_1,effect,increased competition and innovation in financial services|16654_1
+shift away from traditional banks to Non-Bank Financial Institutions,financial markets,higher,,speech_16654_narr_16654_2_cause_222,16654,222,16654_2,cause,shift away from traditional banks to Non-Bank Financial Institutions|16654_2
+enhanced stability of the financial system,financial markets,higher,,speech_16654_narr_16654_2_effect_222,16654,222,16654_2,effect,enhanced stability of the financial system|16654_2
+growth in scale and range of Non-Bank Financial Institutions,financial markets,higher,,speech_16654_narr_16654_3_cause_223,16654,223,16654_3,cause,growth in scale and range of Non-Bank Financial Institutions|16654_3
+new forms of liquidity risks to financial stability,financial markets,higher,,speech_16654_narr_16654_3_effect_223,16654,223,16654_3,effect,new forms of liquidity risks to financial stability|16654_3
+limited number of serious liquidity crises involving NBFIs post-GFC,financial markets,lower,,speech_16654_narr_16654_4_cause_224,16654,224,16654_4,cause,limited number of serious liquidity crises involving NBFIs post-GFC|16654_4
+doubt about the scale of financial stability threat,financial markets,lower,,speech_16654_narr_16654_4_effect_224,16654,224,16654_4,effect,doubt about the scale of financial stability threat|16654_4
+traditional central bank tools for lending to banks,credit,lower,,speech_16654_narr_16654_5_cause_225,16654,225,16654_5,cause,traditional central bank tools for lending to banks|16654_5
+inability to stabilize the financial system as a whole,financial markets,lower,,speech_16654_narr_16654_5_effect_225,16654,225,16654_5,effect,inability to stabilize the financial system as a whole|16654_5
+sudden onset of Covid lockdown,geopolitical shocks,higher,,speech_16654_narr_16654_6_cause_226,16654,226,16654_6,cause,sudden onset of Covid lockdown|16654_6
+dash for cash by NBFIs and others,financial markets,higher,,speech_16654_narr_16654_6_effect_226,16654,226,16654_6,effect,dash for cash by NBFIs and others|16654_6
+sharp adjustment in gilt yields following Government's fiscal announcements,interest rates,higher,,speech_16654_narr_16654_7_cause_227,16654,227,16654_7,cause,sharp adjustment in gilt yields following Government's fiscal announcements|16654_7
+large-scale fire sales by LDI funds,financial markets,higher,,speech_16654_narr_16654_7_effect_227,16654,227,16654_7,effect,large-scale fire sales by LDI funds|16654_7
+growth of non-bank financial system since GFC,financial markets,higher,,speech_16654_narr_16654_8_cause_228,16654,228,16654_8,cause,growth of non-bank financial system since GFC|16654_8
+increased reliance on NBFIs for saving and borrowing,financial markets,higher,,speech_16654_narr_16654_8_effect_228,16654,228,16654_8,effect,increased reliance on NBFIs for saving and borrowing|16654_8
+intermediation capacity in core markets failing to keep pace with NBFI growth,financial markets,lower,,speech_16654_narr_16654_9_cause_229,16654,229,16654_9,cause,intermediation capacity in core markets failing to keep pace with NBFI growth|16654_9
+demand for liquidity at times of stress,financial markets,higher,,speech_16654_narr_16654_9_effect_229,16654,229,16654_9,effect,demand for liquidity at times of stress|16654_9
+NBFIs seeking temporary liquidity,financial markets,higher,,speech_16654_narr_16654_10_cause_230,16654,230,16654_10,cause,NBFIs seeking temporary liquidity|16654_10
+temporary surge in fund investor redemptions,financial markets,higher,,speech_16654_narr_16654_10_effect_230,16654,230,16654_10,effect,temporary surge in fund investor redemptions|16654_10
+NBFIs seeking temporary liquidity,financial markets,higher,,speech_16654_narr_16654_11_cause_231,16654,231,16654_11,cause,NBFIs seeking temporary liquidity|16654_11
+margin calls on derivatives,financial markets,higher,,speech_16654_narr_16654_11_effect_231,16654,231,16654_11,effect,margin calls on derivatives|16654_11
+NBFIs seeking temporary liquidity,financial markets,higher,,speech_16654_narr_16654_12_cause_232,16654,232,16654_12,cause,NBFIs seeking temporary liquidity|16654_12
+temporary drying up in dealer funding,financial markets,lower,,speech_16654_narr_16654_12_effect_232,16654,232,16654_12,effect,temporary drying up in dealer funding|16654_12
+lending directly to NBFIs against high quality collateral,financial markets,higher,,speech_16654_narr_16654_13_cause_233,16654,233,16654_13,cause,lending directly to NBFIs against high quality collateral|16654_13
+risk of confusing perceptions of central banks monetary policy stance,financial markets,lower,,speech_16654_narr_16654_13_effect_233,16654,233,16654_13,effect,risk of confusing perceptions of central banks monetary policy stance|16654_13
+lending directly to NBFIs against high quality collateral,credit,normal,,speech_16654_narr_16654_14_cause_234,16654,234,16654_14,cause,lending directly to NBFIs against high quality collateral|16654_14
+fewer balance sheet costs for public authorities,government spending,lower,,speech_16654_narr_16654_14_effect_234,16654,234,16654_14,effect,fewer balance sheet costs for public authorities|16654_14
+lending directly to NBFIs against high quality collateral,credit,normal,,speech_16654_narr_16654_15_cause_235,16654,235,16654_15,cause,lending directly to NBFIs against high quality collateral|16654_15
+reduce the risks of central bank interventions creating perverse market incentives,financial markets,lower,,speech_16654_narr_16654_15_effect_235,16654,235,16654_15,effect,reduce the risks of central bank interventions creating perverse market incentives|16654_15
+borrowing on central bank terms,credit,lower,,speech_16654_narr_16654_16_cause_236,16654,236,16654_16,cause,borrowing on central bank terms|16654_16
+less costly than fire sales of assets,financial markets,lower,,speech_16654_narr_16654_16_effect_236,16654,236,16654_16,effect,less costly than fire sales of assets|16654_16
+overly generous facility,financial markets,higher,,speech_16654_narr_16654_17_cause_237,16654,237,16654_17,cause,overly generous facility|16654_17
+liquidity risk-taking by NBFIs,financial markets,higher,,speech_16654_narr_16654_17_effect_237,16654,237,16654_17,effect,liquidity risk-taking by NBFIs|16654_17
+overly generous facility,financial markets,higher,,speech_16654_narr_16654_18_cause_238,16654,238,16654_18,cause,overly generous facility|16654_18
+undermine financial stability,financial markets,lower,,speech_16654_narr_16654_18_effect_238,16654,238,16654_18,effect,undermine financial stability|16654_18
+LDI standards,financial markets,higher,,speech_16654_narr_16654_19_cause_239,16654,239,16654_19,cause,LDI standards|16654_19
+resilience of the wider defined benefit pension scheme sector,financial markets,higher,,speech_16654_narr_16654_19_effect_239,16654,239,16654_19,effect,resilience of the wider defined benefit pension scheme sector|16654_19
+NBFIs,financial markets,higher,,speech_16654_narr_16654_20_cause_240,16654,240,16654_20,cause,NBFIs|16654_20
+introduction of new sources of systemic risk,financial markets,higher,,speech_16654_narr_16654_20_effect_240,16654,240,16654_20,effect,introduction of new sources of systemic risk|16654_20
+bank lending tools,credit,lower,,speech_16654_narr_16654_21_cause_241,16654,241,16654_21,cause,bank lending tools|16654_21
+inability to reach the source of the problem,financial markets,higher,,speech_16654_narr_16654_21_effect_241,16654,241,16654_21,effect,inability to reach the source of the problem|16654_21
+asset buy/sell tools,financial markets,higher,,speech_16654_narr_16654_22_cause_242,16654,242,16654_22,cause,asset buy/sell tools|16654_22
+posing financial and policy risks,financial markets,higher,,speech_16654_narr_16654_22_effect_242,16654,242,16654_22,effect,posing financial and policy risks|16654_22
+ICPFs,financial markets,higher,,speech_16654_narr_16654_23_cause_243,16654,243,16654_23,cause,ICPFs|16654_23
+accounting for a material share of gilt sales,financial markets,higher,,speech_16654_narr_16654_23_effect_243,16654,243,16654_23,effect,accounting for a material share of gilt sales|16654_23
+resilience reforms,financial markets,normal,,speech_16654_narr_16654_24_cause_244,16654,244,16654_24,cause,resilience reforms|16654_24
+ongoing,financial markets,normal,,speech_16654_narr_16654_24_effect_244,16654,244,16654_24,effect,ongoing|16654_24
+Banks System Wide Exploratory Scenario exercise,financial markets,normal,,speech_16654_narr_16654_25_cause_245,16654,245,16654_25,cause,Banks System Wide Exploratory Scenario exercise|16654_25
+learning more about questions,financial markets,normal,,speech_16654_narr_16654_25_effect_245,16654,245,16654_25,effect,learning more about questions|16654_25
+improving resilience in the NBFI sector,financial markets,higher,,speech_16654_narr_16654_26_cause_246,16654,246,16654_26,cause,improving resilience in the NBFI sector|16654_26
+making the dream of a Grand Bargain a reality,financial markets,normal,,speech_16654_narr_16654_26_effect_246,16654,246,16654_26,effect,making the dream of a Grand Bargain a reality|16654_26
+prudential regulation covering liquidity risk,financial markets,normal,,speech_16654_narr_16654_27_cause_247,16654,247,16654_27,cause,prudential regulation covering liquidity risk|16654_27
+firms compliance with these regulations,financial markets,normal,,speech_16654_narr_16654_27_effect_247,16654,247,16654_27,effect,firms compliance with these regulations|16654_27
+regulation and supervision,financial markets,higher,,speech_16654_narr_16654_28_cause_248,16654,248,16654_28,cause,regulation and supervision|16654_28
+further strengthening,financial markets,higher,,speech_16654_narr_16654_28_effect_248,16654,248,16654_28,effect,further strengthening|16654_28
+climate change,other,higher,,speech_16655_narr_16655_0_cause_249,16655,249,16655_0,cause,climate change|16655_0
+macroeconomic effects,other,higher,,speech_16655_narr_16655_0_effect_249,16655,249,16655_0,effect,macroeconomic effects|16655_0
+climate mitigation policies,other,higher,,speech_16655_narr_16655_1_cause_250,16655,250,16655_1,cause,climate mitigation policies|16655_1
+change in transmission of demand shocks,output,normal,,speech_16655_narr_16655_1_effect_250,16655,250,16655_1,effect,change in transmission of demand shocks|16655_1
+climate mitigation policies,other,higher,,speech_16655_narr_16655_2_cause_251,16655,251,16655_2,cause,climate mitigation policies|16655_2
+change in transmission of monetary policy,interest rates,normal,,speech_16655_narr_16655_2_effect_251,16655,251,16655_2,effect,change in transmission of monetary policy|16655_2
+climate mitigation policies,geopolitical shocks,higher,,speech_16655_narr_16655_3_cause_252,16655,252,16655_3,cause,climate mitigation policies|16655_3
+impact on UK macroeconomic environment,geopolitical shocks,higher,,speech_16655_narr_16655_3_effect_252,16655,252,16655_3,effect,impact on UK macroeconomic environment|16655_3
+carbon pricing instruments,other,higher,,speech_16655_narr_16655_4_cause_253,16655,253,16655_4,cause,carbon pricing instruments|16655_4
+increase in carbon prices,other,higher,,speech_16655_narr_16655_4_effect_253,16655,253,16655_4,effect,increase in carbon prices|16655_4
+carbon pricing instruments,other,higher,,speech_16655_narr_16655_5_cause_254,16655,254,16655_5,cause,carbon pricing instruments|16655_5
+reduction in output of carbon-intensive products,output,lower,,speech_16655_narr_16655_5_effect_254,16655,254,16655_5,effect,reduction in output of carbon-intensive products|16655_5
+price signals from carbon instruments,other,higher,,speech_16655_narr_16655_6_cause_255,16655,255,16655_6,cause,price signals from carbon instruments|16655_6
+induction of greener investments,other,higher,,speech_16655_narr_16655_6_effect_255,16655,255,16655_6,effect,induction of greener investments|16655_6
+price signals from carbon instruments,other,normal,,speech_16655_narr_16655_7_cause_256,16655,256,16655_7,cause,price signals from carbon instruments|16655_7
+reduction in consumption of carbon-intensive products,other,lower,,speech_16655_narr_16655_7_effect_256,16655,256,16655_7,effect,reduction in consumption of carbon-intensive products|16655_7
+macroeconomic demand shocks,output,higher,,speech_16655_narr_16655_8_cause_257,16655,257,16655_8,cause,macroeconomic demand shocks|16655_8
+greater price volatility with quantity-based instruments,financial markets,higher,,speech_16655_narr_16655_8_effect_257,16655,257,16655_8,effect,greater price volatility with quantity-based instruments|16655_8
+shock to or permanent increase in energy prices,inflation,higher,,speech_16655_narr_16655_9_cause_258,16655,258,16655_9,cause,shock to or permanent increase in energy prices|16655_9
+significant impacts on energy-intensive imported goods,trade,higher,,speech_16655_narr_16655_9_effect_258,16655,258,16655_9,effect,significant impacts on energy-intensive imported goods|16655_9
+shocks to widely-used intermediate goods,trade,higher,,speech_16655_narr_16655_10_cause_259,16655,259,16655_10,cause,shocks to widely-used intermediate goods|16655_10
+pervasive and long-lasting effects across all other goods and sectors,output,lower,,speech_16655_narr_16655_10_effect_259,16655,259,16655_10,effect,pervasive and long-lasting effects across all other goods and sectors|16655_10
+reliance on fossil fuel energy,geopolitical shocks,higher,,speech_16655_narr_16655_11_cause_260,16655,260,16655_11,cause,reliance on fossil fuel energy|16655_11
+exposure to risk of further price shocks,inflation,higher,,speech_16655_narr_16655_11_effect_260,16655,260,16655_11,effect,exposure to risk of further price shocks|16655_11
+moving towards a greener mix for energy generation,geopolitical shocks,lower,,speech_16655_narr_16655_12_cause_261,16655,261,16655_12,cause,moving towards a greener mix for energy generation|16655_12
+reduced risk of large shocks and macroeconomic ramifications,geopolitical shocks,lower,,speech_16655_narr_16655_12_effect_261,16655,261,16655_12,effect,reduced risk of large shocks and macroeconomic ramifications|16655_12
+less stringent evolution in emissions permits,other,lower,,speech_16655_narr_16655_13_cause_262,16655,262,16655_13,cause,less stringent evolution in emissions permits|16655_13
+fall in demand for permits,other,lower,,speech_16655_narr_16655_13_effect_262,16655,262,16655_13,effect,fall in demand for permits|16655_13
+introduction of policies,financial markets,higher,,speech_16655_narr_16655_14_cause_263,16655,263,16655_14,cause,introduction of policies|16655_14
+volatility,financial markets,higher,,speech_16655_narr_16655_14_effect_263,16655,263,16655_14,effect,volatility|16655_14
+price-based instruments such as carbon taxes,output,fluctuations,,speech_16655_narr_16655_15_cause_264,16655,264,16655_15,cause,price-based instruments such as carbon taxes|16655_15
+fluctuations in output,output,normal,,speech_16655_narr_16655_15_effect_264,16655,264,16655_15,effect,fluctuations in output|16655_15
+quantity-based instruments such as an ETS,inflation,higher,,speech_16655_narr_16655_16_cause_265,16655,265,16655_16,cause,quantity-based instruments such as an ETS|16655_16
+price fluctuations,inflation,higher,,speech_16655_narr_16655_16_effect_265,16655,265,16655_16,effect,price fluctuations|16655_16
+uncertainty,other,higher,,speech_16655_narr_16655_17_cause_266,16655,266,16655_17,cause,uncertainty|16655_17
+"reduction in investment, consumption, and employment",output,lower,,speech_16655_narr_16655_17_effect_266,16655,266,16655_17,effect,"reduction in investment, consumption, and employment|16655_17"
+uncertainty,other,higher,,speech_16655_narr_16655_18_cause_267,16655,267,16655_18,cause,uncertainty|16655_18
+increase in option value of waiting,financial markets,higher,,speech_16655_narr_16655_18_effect_267,16655,267,16655_18,effect,increase in option value of waiting|16655_18
+carbon supply shock,other,higher,,speech_16655_narr_16655_19_cause_268,16655,268,16655_19,cause,carbon supply shock|16655_19
+0.15% peak increase in CPI,inflation,higher,,speech_16655_narr_16655_19_effect_268,16655,268,16655_19,effect,0.15% peak increase in CPI|16655_19
+carbon supply shock,other,higher,,speech_16655_narr_16655_20_cause_269,16655,269,16655_20,cause,carbon supply shock|16655_20
+0.3% decrease in output,output,lower,,speech_16655_narr_16655_20_effect_269,16655,269,16655_20,effect,0.3% decrease in output|16655_20
+carbon supply shock,geopolitical shocks,higher,,speech_16655_narr_16655_21_cause_270,16655,270,16655_21,cause,carbon supply shock|16655_21
+carbon prices,other,higher,,speech_16655_narr_16655_21_effect_270,16655,270,16655_21,effect,carbon prices|16655_21
+rise in carbon price,other,higher,,speech_16655_narr_16655_22_cause_271,16655,271,16655_22,cause,rise in carbon price|16655_22
+output fall for emissions-intensive goods,output,lower,,speech_16655_narr_16655_22_effect_271,16655,271,16655_22,effect,output fall for emissions-intensive goods|16655_22
+carbon price shock,geopolitical shocks,higher,,speech_16655_narr_16655_23_cause_272,16655,272,16655_23,cause,carbon price shock|16655_23
+output increase for green firms,output,higher,,speech_16655_narr_16655_23_effect_272,16655,272,16655_23,effect,output increase for green firms|16655_23
+decline in expected profitability of emissions-intensive firms,other,lower,,speech_16655_narr_16655_24_cause_273,16655,273,16655_24,cause,decline in expected profitability of emissions-intensive firms|16655_24
+persistent decline in investment,output,lower,,speech_16655_narr_16655_24_effect_273,16655,273,16655_24,effect,persistent decline in investment|16655_24
+persistent fall in relative prices of green and emissions-intensive goods,inflation,lower,,speech_16655_narr_16655_25_cause_274,16655,274,16655_25,cause,persistent fall in relative prices of green and emissions-intensive goods|16655_25
+fall in investment,output,lower,,speech_16655_narr_16655_25_effect_274,16655,274,16655_25,effect,fall in investment|16655_25
+rising cost of emissions-intensive goods,inflation,higher,,speech_16655_narr_16655_26_cause_275,16655,275,16655_26,cause,rising cost of emissions-intensive goods|16655_26
+inflation increase,inflation,higher,,speech_16655_narr_16655_26_effect_275,16655,275,16655_26,effect,inflation increase|16655_26
+carbon taxes,output,lower,,speech_16655_narr_16655_27_cause_276,16655,276,16655_27,cause,carbon taxes|16655_27
+decrease in output,output,lower,,speech_16655_narr_16655_27_effect_276,16655,276,16655_27,effect,decrease in output|16655_27
+investment,output,higher,,speech_16655_narr_16655_28_cause_277,16655,277,16655_28,cause,investment|16655_28
+subsidies,output,higher,,speech_16655_narr_16655_28_cause_277,16655,277,16655_28,cause,subsidies|16655_28
+increase in output,output,higher,,speech_16655_narr_16655_28_effect_277,16655,277,16655_28,effect,increase in output|16655_28
+carbon taxes,inflation,higher,,speech_16655_narr_16655_29_cause_278,16655,278,16655_29,cause,carbon taxes|16655_29
+inflationary effects,inflation,higher,,speech_16655_narr_16655_29_effect_278,16655,278,16655_29,effect,inflationary effects|16655_29
+public investments,government spending,higher,,speech_16655_narr_16655_30_cause_279,16655,279,16655_30,cause,public investments|16655_30
+inflationary effects,inflation,higher,,speech_16655_narr_16655_30_effect_279,16655,279,16655_30,effect,inflationary effects|16655_30
+subsidies,inflation,higher,,speech_16655_narr_16655_31_cause_280,16655,280,16655_31,cause,subsidies|16655_31
+inflationary effects,inflation,higher,,speech_16655_narr_16655_31_effect_280,16655,280,16655_31,effect,inflationary effects|16655_31
+expectations for future tax increases,government spending,lower,,speech_16655_narr_16655_32_cause_281,16655,281,16655_32,cause,expectations for future tax increases|16655_32
+negative effect on demand in the current period,output,lower,,speech_16655_narr_16655_32_effect_281,16655,281,16655_32,effect,negative effect on demand in the current period|16655_32
+fully rational agents internalising hit to permanent incomes,output,lower,,speech_16655_narr_16655_33_cause_282,16655,282,16655_33,cause,fully rational agents internalising hit to permanent incomes|16655_33
+output fall,output,lower,,speech_16655_narr_16655_33_effect_282,16655,282,16655_33,effect,output fall|16655_33
+permanent increase in carbon price,other,higher,,speech_16655_narr_16655_34_cause_283,16655,283,16655_34,cause,permanent increase in carbon price|16655_34
+larger upwards impact on inflation,inflation,higher,,speech_16655_narr_16655_34_effect_283,16655,283,16655_34,effect,larger upwards impact on inflation|16655_34
+sequence of anticipated carbon price shocks,geopolitical shocks,higher,,speech_16655_narr_16655_35_cause_284,16655,284,16655_35,cause,sequence of anticipated carbon price shocks|16655_35
+strong inflationary dynamic,inflation,higher,,speech_16655_narr_16655_35_effect_284,16655,284,16655_35,effect,strong inflationary dynamic|16655_35
+contractionary monetary policy shock at home,interest rates,higher,,speech_16655_narr_16655_36_cause_285,16655,285,16655_36,cause,contractionary monetary policy shock at home|16655_36
+output,output,lower,,speech_16655_narr_16655_36_effect_285,16655,285,16655_36,effect,output|16655_36
+inflation,inflation,lower,,speech_16655_narr_16655_36_effect_285,16655,285,16655_36,effect,inflation|16655_36
+carbon tax,government spending,higher,,speech_16655_narr_16655_37_cause_286,16655,286,16655_37,cause,carbon tax|16655_37
+volatility in home output,output,higher,,speech_16655_narr_16655_37_effect_286,16655,286,16655_37,effect,volatility in home output|16655_37
+ETS,inflation,higher,,speech_16655_narr_16655_38_cause_287,16655,287,16655_38,cause,ETS|16655_38
+higher inflation volatility,inflation,higher,,speech_16655_narr_16655_38_effect_287,16655,287,16655_38,effect,higher inflation volatility|16655_38
+foreign firms enjoying cost-reduction from tradeable lower permit price,trade,lower,,speech_16655_narr_16655_39_cause_288,16655,288,16655_39,cause,foreign firms enjoying cost-reduction from tradeable lower permit price|16655_39
+support for output,output,higher,,speech_16655_narr_16655_39_effect_288,16655,288,16655_39,effect,support for output|16655_39
+green subsidies on labour costs to green firms,labour market,higher,,speech_16655_narr_16655_40_cause_289,16655,289,16655_40,cause,green subsidies on labour costs to green firms|16655_40
+larger effects on consumption,government spending,higher,,speech_16655_narr_16655_40_effect_289,16655,289,16655_40,effect,larger effects on consumption|16655_40
+subsidies for green loans to banks,credit,higher,,speech_16655_narr_16655_41_cause_290,16655,290,16655_41,cause,subsidies for green loans to banks|16655_41
+larger effects on consumption,government spending,higher,,speech_16655_narr_16655_41_effect_290,16655,290,16655_41,effect,larger effects on consumption|16655_41
+subsidies on capital to green firms,government spending,higher,,speech_16655_narr_16655_42_cause_291,16655,291,16655_42,cause,subsidies on capital to green firms|16655_42
+consumption,output,lower,,speech_16655_narr_16655_42_effect_291,16655,291,16655_42,effect,consumption|16655_42
+direct subsidies to households,government spending,higher,,speech_16655_narr_16655_43_cause_292,16655,292,16655_43,cause,direct subsidies to households|16655_43
+smaller effects on consumption,government spending,lower,,speech_16655_narr_16655_43_effect_292,16655,292,16655_43,effect,smaller effects on consumption|16655_43
+subsidies,government spending,higher,,speech_16655_narr_16655_44_cause_293,16655,293,16655_44,cause,subsidies|16655_44
+reduction in relative prices of green goods,inflation,lower,,speech_16655_narr_16655_44_effect_293,16655,293,16655_44,effect,reduction in relative prices of green goods|16655_44
+subsidies,government spending,higher,,speech_16655_narr_16655_45_cause_294,16655,294,16655_45,cause,subsidies|16655_45
+increase in production of green goods,output,higher,,speech_16655_narr_16655_45_effect_294,16655,294,16655_45,effect,increase in production of green goods|16655_45
+carbon taxes,government spending,higher,,speech_16655_narr_16655_46_cause_295,16655,295,16655_46,cause,carbon taxes|16655_46
+expansion of the economy,output,higher,,speech_16655_narr_16655_46_effect_295,16655,295,16655_46,effect,expansion of the economy|16655_46
+carbon taxes,government spending,higher,,speech_16655_narr_16655_47_cause_296,16655,296,16655_47,cause,carbon taxes|16655_47
+welfare gains,other,higher,,speech_16655_narr_16655_47_effect_296,16655,296,16655_47,effect,welfare gains|16655_47
+carbon taxes,government spending,normal,,speech_16655_narr_16655_48_cause_297,16655,297,16655_48,cause,carbon taxes|16655_48
+reduction in macroeconomic consequences,government spending,lower,,speech_16655_narr_16655_48_effect_297,16655,297,16655_48,effect,reduction in macroeconomic consequences|16655_48
+technological progress,productivity,higher,,speech_16655_narr_16655_49_cause_298,16655,298,16655_49,cause,technological progress|16655_49
+reduction in the cost of renewable energy,productivity,lower,,speech_16655_narr_16655_49_effect_298,16655,298,16655_49,effect,reduction in the cost of renewable energy|16655_49
+increased regulatory uncertainty,other,higher,,speech_16655_narr_16655_50_cause_299,16655,299,16655_50,cause,increased regulatory uncertainty|16655_50
+decreased firm investment in renewable energy generation,other,lower,,speech_16655_narr_16655_50_effect_299,16655,299,16655_50,effect,decreased firm investment in renewable energy generation|16655_50
+policy-related uncertainty shocks,inflation,higher,,speech_16655_narr_16655_51_cause_300,16655,300,16655_51,cause,policy-related uncertainty shocks|16655_51
+rise in short and long run inflation expectations,inflation,higher,,speech_16655_narr_16655_51_effect_300,16655,300,16655_51,effect,rise in short and long run inflation expectations|16655_51
+carbon pricing shocks,geopolitical shocks,higher,,speech_16655_narr_16655_52_cause_301,16655,301,16655_52,cause,carbon pricing shocks|16655_52
+affect green firms less than emissions-intensive firms,financial markets,lower,,speech_16655_narr_16655_52_effect_301,16655,301,16655_52,effect,affect green firms less than emissions-intensive firms|16655_52
+carbon prices,other,higher,,speech_16655_narr_16655_53_cause_302,16655,302,16655_53,cause,carbon prices|16655_53
+raise the cost of capital of emissions-intensive firms,financial markets,higher,,speech_16655_narr_16655_53_effect_302,16655,302,16655_53,effect,raise the cost of capital of emissions-intensive firms|16655_53
+contractionary monetary policy shock,interest rates,higher,,speech_16655_narr_16655_54_cause_303,16655,303,16655_54,cause,contractionary monetary policy shock|16655_54
+output declines,output,lower,,speech_16655_narr_16655_54_effect_303,16655,303,16655_54,effect,output declines|16655_54
+output decline,output,lower,,speech_16655_narr_16655_55_cause_304,16655,304,16655_55,cause,output decline|16655_55
+reduction in the demand for emissions,output,lower,,speech_16655_narr_16655_55_effect_304,16655,304,16655_55,effect,reduction in the demand for emissions|16655_55
+output decline under ETS,output,lower,,speech_16655_narr_16655_56_cause_305,16655,305,16655_56,cause,output decline under ETS|16655_56
+carbon price,other,lower,,speech_16655_narr_16655_56_effect_305,16655,305,16655_56,effect,carbon price|16655_56
+fall in carbon price under ETS,other,lower,,speech_16655_narr_16655_57_cause_306,16655,306,16655_57,cause,fall in carbon price under ETS|16655_57
+boosts output in foreign country,output,higher,,speech_16655_narr_16655_57_effect_306,16655,306,16655_57,effect,boosts output in foreign country|16655_57
+stronger stabilisation effort from the central bank,interest rates,higher,,speech_16655_narr_16655_58_cause_307,16655,307,16655_58,cause,stronger stabilisation effort from the central bank|16655_58
+uncertainty of the climate policy,other,lower,,speech_16655_narr_16655_58_effect_307,16655,307,16655_58,effect,uncertainty of the climate policy|16655_58

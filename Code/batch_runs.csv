@@ -1,0 +1,8 @@
+batch_id,status,ready_to_retrieve,completed,completed_at_time,tokens_submitted,tokens_output,output_path
+batch_68c5c2b02e608190999508ed5f723bc6,completed,YES,YES,2025-09-13T20:19:42.674386+01:00,13435,7193,user_outputs/speech_runs/output_batch_68c5c2b02e608190999508ed5f723bc6.jsonl
+batch_68c5c2d6a35c819083c5be24fc1d6650,completed,YES,YES,2025-09-13T20:19:43.579265+01:00,15267,10210,user_outputs/speech_runs/output_batch_68c5c2d6a35c819083c5be24fc1d6650.jsonl
+batch_68c5d2f670a88190bf6cfff6cb186c25,in_progress,NO,NO,,,,
+batch_68c5d2f8bcdc8190b1fe67f28af94c2b,in_progress,NO,NO,,,,
+batch_68c5d2fa519c8190899762492151b9eb,in_progress,NO,NO,,,,
+batch_68c5d2fc14cc81908eb563a21ab7b242,in_progress,NO,NO,,,,
+batch_68c5d2fd93d48190a62fa4d90956f054,in_progress,NO,NO,,,,
